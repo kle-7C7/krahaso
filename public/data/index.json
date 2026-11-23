@@ -1,0 +1,33 @@
+{
+ "updatedAt": "2026-11-23T11:26:11.681Z",
+ "stores": {
+  "neptun": {
+   "name": "Neptun",
+   "homepage": "https://www.neptun.al"
+  },
+  "globe": {
+   "name": "Globe",
+   "homepage": "https://globe.al"
+  },
+  "shpresa": {
+   "name": "Shpresa",
+   "homepage": "https://shpresa.al"
+  },
+  "ozone": {
+   "name": "Ozone",
+   "homepage": "https://ozone.al"
+  },
+  "aza": {
+   "name": "AZA Electronics",
+   "homepage": "https://www.azaelectronics.com"
+  }
+ },
+ "categories": [
+  {
+   "id": "tv",
+   "label": "TVs",
+   "updatedAt": "2026-11-23T11:26:10.837Z",
+   "products": 54
+  }
+ ]
+}

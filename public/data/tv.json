@@ -1,0 +1,1493 @@
+{
+ "category": "tv",
+ "label": "TVs",
+ "updatedAt": "2026-11-23T11:26:10.837Z",
+ "stores": {
+  "shpresa": {
+   "name": "Shpresa",
+   "homepage": "https://shpresa.al",
+   "ok": true,
+   "count": 16,
+   "lastSuccess": "2026-11-23T11:26:10.837Z",
+   "lastAttempt": "2026-11-23T11:26:10.837Z"
+  },
+  "aza": {
+   "name": "AZA Electronics",
+   "homepage": "https://www.azaelectronics.com",
+   "ok": true,
+   "count": 39,
+   "lastSuccess": "2026-11-23T11:26:10.837Z",
+   "lastAttempt": "2026-11-23T11:26:10.837Z"
+  }
+ },
+ "products": [
+  {
+   "key": "samsung|55|u8072f",
+   "brand": "SAMSUNG",
+   "size": 55,
+   "model": "U8072F",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SAMSUNG UE55U8072FUXXH",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-samsung-ue55u8072fuxxh2.html",
+     "price": 36990,
+     "oldPrice": 59990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    },
+    {
+     "store": "shpresa",
+     "name": "Samsung 55\" Crystal UHD U8072F 4K Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-55-crystal-uhd-u8072f-4k-smart-tv-2025/",
+     "price": 39990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 55\" Crystal UHD U8072F 4K Smart TV (2025)",
+   "image": null,
+   "storeCount": 2,
+   "bestPrice": 36990,
+   "bestStore": "aza",
+   "maxPrice": 39990,
+   "spread": 3000,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|32|tv",
+   "brand": "DELUX",
+   "size": 32,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 32' UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-delux-32-uhd-smart2.html",
+     "price": 10490,
+     "oldPrice": 15999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 32' UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 10490,
+   "bestStore": "aza",
+   "maxPrice": 10490,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "sunny|32|tv",
+   "brand": "SUNNY",
+   "size": 32,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SUNNY 32 HD WEBOS",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-sunny-32-hd-webos-2.html",
+     "price": 12990,
+     "oldPrice": 19999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SUNNY 32 HD WEBOS",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 12990,
+   "bestStore": "aza",
+   "maxPrice": 12990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|43|tv",
+   "brand": "DELUX",
+   "size": 43,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 43 FHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-delux-43-fhd-smart2.html",
+     "price": 14490,
+     "oldPrice": 24990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 43 FHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 14490,
+   "bestStore": "aza",
+   "maxPrice": 14490,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "fobem|ml40ew4000",
+   "brand": "FOBEM",
+   "size": 40,
+   "model": "ML40EW4000",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED FOBEM ML40EW4000",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-fobem-ml40ew40002.html",
+     "price": 15990,
+     "oldPrice": 22990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED FOBEM ML40EW4000",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 15990,
+   "bestStore": "aza",
+   "maxPrice": 15990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "fobem|ml43ew4000",
+   "brand": "FOBEM",
+   "size": 43,
+   "model": "ML43EW4000",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED FOBEM ML43EW4000",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-fobem-ml43ew40002.html",
+     "price": 15990,
+     "oldPrice": 24990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED FOBEM ML43EW4000",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 15990,
+   "bestStore": "aza",
+   "maxPrice": 15990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "sunny|43|tv",
+   "brand": "SUNNY",
+   "size": 43,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SUNNY 43 FHD WEBOS",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-sunny-43-fhd-webos-2.html",
+     "price": 17990,
+     "oldPrice": 31990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SUNNY 43 FHD WEBOS",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 17990,
+   "bestStore": "aza",
+   "maxPrice": 17990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|50|tv",
+   "brand": "DELUX",
+   "size": 50,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 50' UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs?product_id=8627",
+     "price": 21490,
+     "oldPrice": 32990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 50' UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 21490,
+   "bestStore": "aza",
+   "maxPrice": 21490,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "fobem|ml50ew8000f",
+   "brand": "FOBEM",
+   "size": 50,
+   "model": "ML50EW8000F",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED FOBEM ML50EW8000F",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-fobem-ml50ew8000f2.html",
+     "price": 21990,
+     "oldPrice": 34990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED FOBEM ML50EW8000F",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 21990,
+   "bestStore": "aza",
+   "maxPrice": 21990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|43pus7000",
+   "brand": "PHILIPS",
+   "size": 43,
+   "model": "43PUS7000",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 43PUS7000/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-43pus7000122.html",
+     "price": 22990,
+     "oldPrice": 35990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 43PUS7000/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 22990,
+   "bestStore": "aza",
+   "maxPrice": 22990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "sunny|50|tv",
+   "brand": "SUNNY",
+   "size": 50,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SUNNY 50 UHD WEBOS",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-sunny-50-uhd-webos-2.html",
+     "price": 22990,
+     "oldPrice": 39900,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SUNNY 50 UHD WEBOS",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 22990,
+   "bestStore": "aza",
+   "maxPrice": 22990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|43|a",
+   "brand": "XIAOMI",
+   "size": 43,
+   "model": null,
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Xiaomi TV A 43 2026",
+     "url": "https://shpresa.al/product/xiaomi-tv-a-43-2026/",
+     "price": 24990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Xiaomi TV A 43 2026",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 24990,
+   "bestStore": "shpresa",
+   "maxPrice": 24990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|55|tv",
+   "brand": "DELUX",
+   "size": 55,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 55' UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-delux-55-uhd-smart-2.html",
+     "price": 24990,
+     "oldPrice": 39990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 55' UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 24990,
+   "bestStore": "aza",
+   "maxPrice": 24990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|50pus7000",
+   "brand": "PHILIPS",
+   "size": 50,
+   "model": "50PUS7000",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 50PUS7000/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-50pus7000122.html",
+     "price": 24990,
+     "oldPrice": 44990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 50PUS7000/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 24990,
+   "bestStore": "aza",
+   "maxPrice": 24990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "telefunken|50ua9005bx",
+   "brand": "TELEFUNKEN",
+   "size": 50,
+   "model": "50UA9005BX",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED TELEFUNKEN 50UA9005BX",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-telefunken-50ua9005bx2.html",
+     "price": 25990,
+     "oldPrice": 44900,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED TELEFUNKEN 50UA9005BX",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 25990,
+   "bestStore": "aza",
+   "maxPrice": 25990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "telefunken|55ua9005bx",
+   "brand": "TELEFUNKEN",
+   "size": 55,
+   "model": "55UA9005BX",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED TELEFUNKEN 55UA9005BX",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-telefunken-55ua9005bx2.html",
+     "price": 25990,
+     "oldPrice": 49900,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED TELEFUNKEN 55UA9005BX",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 25990,
+   "bestStore": "aza",
+   "maxPrice": 25990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|55pus7609",
+   "brand": "PHILIPS",
+   "size": 55,
+   "model": "55PUS7609",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 55PUS7609/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-55pus7609122.html",
+     "price": 28990,
+     "oldPrice": 59990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 55PUS7609/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 28990,
+   "bestStore": "aza",
+   "maxPrice": 28990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|55pus7810",
+   "brand": "PHILIPS",
+   "size": 55,
+   "model": "55PUS7810",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 55PUS7810/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-55pus7810122.html",
+     "price": 29990,
+     "oldPrice": 54990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 55PUS7810/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 29990,
+   "bestStore": "aza",
+   "maxPrice": 29990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|l43m7eaukr",
+   "brand": "XIAOMI",
+   "size": 43,
+   "model": "L43M7EAUKR",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Xiaomi TV L43M7-EAUKR 43\"",
+     "url": "https://shpresa.al/product/xiaomi-tv-l43m7-eaukr-43/",
+     "price": 30990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Xiaomi TV L43M7-EAUKR 43\"",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 30990,
+   "bestStore": "shpresa",
+   "maxPrice": 30990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|55ur73006la",
+   "brand": "LG",
+   "size": 55,
+   "model": "55UR73006LA",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TELEVIZOR LG 55UR73006LA",
+     "url": "https://www.azaelectronics.com/tvs/televizor-lg-55ur73006la2.html",
+     "price": 30990,
+     "oldPrice": 44990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TELEVIZOR LG 55UR73006LA",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 30990,
+   "bestStore": "aza",
+   "maxPrice": 30990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|65|tv",
+   "brand": "DELUX",
+   "size": 65,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 65' UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-delux-65-uhd-smart-2.html",
+     "price": 32900,
+     "oldPrice": 52990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 65' UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 32900,
+   "bestStore": "aza",
+   "maxPrice": 32900,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|50pus8079",
+   "brand": "PHILIPS",
+   "size": 50,
+   "model": "50PUS8079",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 50PUS8079/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-50pus8079122.html",
+     "price": 33990,
+     "oldPrice": 62990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 50PUS8079/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 33990,
+   "bestStore": "aza",
+   "maxPrice": 33990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|50pus8118",
+   "brand": "PHILIPS",
+   "size": 50,
+   "model": "50PUS8118",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 50PUS8118/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-50pus8118122.html",
+     "price": 34900,
+     "oldPrice": 82990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 50PUS8118/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 34900,
+   "bestStore": "aza",
+   "maxPrice": 34900,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|55ur80003lj",
+   "brand": "LG",
+   "size": 55,
+   "model": "55UR80003LJ",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TELEVIZOR LG 55UR80003LJ",
+     "url": "https://www.azaelectronics.com/tvs/televizor-lg-55ur80003lj2.html",
+     "price": 34990,
+     "oldPrice": 59990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TELEVIZOR LG 55UR80003LJ",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 34990,
+   "bestStore": "aza",
+   "maxPrice": 34990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|55|u7000f",
+   "brand": "SAMSUNG",
+   "size": 55,
+   "model": "UE55U7000FUXZT",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SAMSUNG UE55U7000FUXZT",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-samsung-ue55u7000fuxzt2.html",
+     "price": 34990,
+     "oldPrice": 61990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SAMSUNG UE55U7000FUXZT",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 34990,
+   "bestStore": "aza",
+   "maxPrice": 34990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "telefunken|65uak9005bx",
+   "brand": "TELEFUNKEN",
+   "size": 65,
+   "model": "65UAK9005BX",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED TELEFUNKEN 65UAK9005BX",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-telefunken-65uak9005bx2.html",
+     "price": 34990,
+     "oldPrice": 64999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED TELEFUNKEN 65UAK9005BX",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 34990,
+   "bestStore": "aza",
+   "maxPrice": 34990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|55pus8118",
+   "brand": "PHILIPS",
+   "size": 55,
+   "model": "55PUS8118",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 55PUS8118/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-55pus8118122.html",
+     "price": 36990,
+     "oldPrice": 64990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 55PUS8118/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 36990,
+   "bestStore": "aza",
+   "maxPrice": 36990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|65pus7000",
+   "brand": "PHILIPS",
+   "size": 65,
+   "model": "65PUS7000",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 65PUS7000/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-65pus7000122.html",
+     "price": 37990,
+     "oldPrice": 64990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 65PUS7000/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 37990,
+   "bestStore": "aza",
+   "maxPrice": 37990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|50|m70h",
+   "brand": "SAMSUNG",
+   "size": 50,
+   "model": "M70H",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
+     "url": "https://shpresa.al/product/samsung-50-mini-led-m70h-4k-samsung-vision-ai-smart-tv-2026/",
+     "price": 39990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 39990,
+   "bestStore": "shpresa",
+   "maxPrice": 39990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "thomson|65ug4s14",
+   "brand": "THOMSON",
+   "size": 65,
+   "model": "65UG4S14",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED THOMSON 65UG4S14 GOOGLE TV",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-thomson-65ug4s14-google-tv2.html",
+     "price": 41900,
+     "oldPrice": 64999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED THOMSON 65UG4S14 GOOGLE TV",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 41900,
+   "bestStore": "aza",
+   "maxPrice": 41900,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|55|u8072h",
+   "brand": "SAMSUNG",
+   "size": 55,
+   "model": "U8072H",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 55\" Crystal UHD U8072H 4K Smart TV (2026)",
+     "url": "https://shpresa.al/product/samsung-55-crystal-uhd-u8072h-4k-smart-tv-2026/",
+     "price": 41990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 55\" Crystal UHD U8072H 4K Smart TV (2026)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 41990,
+   "bestStore": "shpresa",
+   "maxPrice": 41990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|50|du8000",
+   "brand": "SAMSUNG",
+   "size": 50,
+   "model": "DU8000",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 50\" Crystal UHD DU8000 4K Tizen OS Smart TV (2024)",
+     "url": "https://shpresa.al/product/samsung-50-crystal-uhd-du8000-4k-tizen-os-smart-tv-2024/",
+     "price": 41990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 50\" Crystal UHD DU8000 4K Tizen OS Smart TV (2024)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 41990,
+   "bestStore": "shpresa",
+   "maxPrice": 41990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|65|u8072f",
+   "brand": "SAMSUNG",
+   "size": 65,
+   "model": "UE65U8072FUXXH",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SAMSUNG UE65U8072FUXXH",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-samsung-ue65u8072fuxxh2.html",
+     "price": 41990,
+     "oldPrice": 79990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SAMSUNG UE65U8072FUXXH",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 41990,
+   "bestStore": "aza",
+   "maxPrice": 41990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|55|a-pro",
+   "brand": "XIAOMI",
+   "size": 55,
+   "model": null,
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "TV Xiaomi A Pro 55\"",
+     "url": "https://shpresa.al/product/tv-xiaomi-a-pro-55/",
+     "price": 44990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV Xiaomi A Pro 55\"",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 44990,
+   "bestStore": "shpresa",
+   "maxPrice": 44990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|55qned80a6a",
+   "brand": "LG",
+   "size": 55,
+   "model": "55QNED80A6A",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED LG 55QNED80A6A",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-lg-55qned80a6a2.html",
+     "price": 44990,
+     "oldPrice": 75990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED LG 55QNED80A6A",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 44990,
+   "bestStore": "aza",
+   "maxPrice": 44990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|55pml8709",
+   "brand": "PHILIPS",
+   "size": 55,
+   "model": "55PML8709",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV MINI LED PHILIPS 55PML8709/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-mini-led-philips-55pml8709122.html",
+     "price": 44990,
+     "oldPrice": 74990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV MINI LED PHILIPS 55PML8709/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 44990,
+   "bestStore": "aza",
+   "maxPrice": 44990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "delux|75|tv",
+   "brand": "DELUX",
+   "size": 75,
+   "model": null,
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED DELUX 75' UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-delux-75-uhd-smart-2.html",
+     "price": 46990,
+     "oldPrice": 69990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED DELUX 75' UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 46990,
+   "bestStore": "aza",
+   "maxPrice": 46990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|50pus8818",
+   "brand": "PHILIPS",
+   "size": 50,
+   "model": "50PUS8818",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 50PUS8818/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-50pus8818122.html",
+     "price": 49900,
+     "oldPrice": 99990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 50PUS8818/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 49900,
+   "bestStore": "aza",
+   "maxPrice": 49900,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|65ut80003la",
+   "brand": "LG",
+   "size": 65,
+   "model": "65UT80003LA",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED LG 65UT80003LA",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-lg-65ut80003la2.html",
+     "price": 49990,
+     "oldPrice": 79909,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED LG 65UT80003LA",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 49990,
+   "bestStore": "aza",
+   "maxPrice": 49990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|55|q7f",
+   "brand": "SAMSUNG",
+   "size": 55,
+   "model": "Q7F",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 55\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-55-qled-q7f-4k-samsung-vision-ai-smart-tv-2025/",
+     "price": 54990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 55\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 54990,
+   "bestStore": "shpresa",
+   "maxPrice": 54990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|65ur80003lj",
+   "brand": "LG",
+   "size": 65,
+   "model": "65UR80003LJ",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED LG 65UR80003LJ 4K UHD SMART",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-lg-65ur80003lj-4k-uhd-smart2.html",
+     "price": 54990,
+     "oldPrice": 79999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED LG 65UR80003LJ 4K UHD SMART",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 54990,
+   "bestStore": "aza",
+   "maxPrice": 54990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|65ur91003la",
+   "brand": "LG",
+   "size": 65,
+   "model": "65UR91003LA",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LG 65UR91003LA",
+     "url": "https://www.azaelectronics.com/tvs/tv-lg-65ur91003la2.html",
+     "price": 56990,
+     "oldPrice": 84909,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LG 65UR91003LA",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 56990,
+   "bestStore": "aza",
+   "maxPrice": 56990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|65|u8092f",
+   "brand": "SAMSUNG",
+   "size": 65,
+   "model": "U8092F",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 65\" Crystal UHD U8092F 4K Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-65-crystal-uhd-u8092f-4k-smart-tv-2025/",
+     "price": 59990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 65\" Crystal UHD U8092F 4K Smart TV (2025)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 59990,
+   "bestStore": "shpresa",
+   "maxPrice": 59990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|65|q7f",
+   "brand": "SAMSUNG",
+   "size": 65,
+   "model": "Q7F",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 65\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-65-qled-q7f-4k-samsung-vision-ai-smart-tv-2025/",
+     "price": 59990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 65\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 59990,
+   "bestStore": "shpresa",
+   "maxPrice": 59990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|55|s",
+   "brand": "XIAOMI",
+   "size": 55,
+   "model": null,
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Xiaomi TV S Mini LED 55 2025",
+     "url": "https://shpresa.al/product/xiaomi-tv-s-mini-led-55-2025/",
+     "price": 59990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Xiaomi TV S Mini LED 55 2025",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 59990,
+   "bestStore": "shpresa",
+   "maxPrice": 59990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|55pus8818",
+   "brand": "PHILIPS",
+   "size": 55,
+   "model": "55PUS8818",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 55PUS8818/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-55pus8818122.html",
+     "price": 59990,
+     "oldPrice": 99990,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 55PUS8818/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 59990,
+   "bestStore": "aza",
+   "maxPrice": 59990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "philips|75pus7609",
+   "brand": "PHILIPS",
+   "size": 75,
+   "model": "75PUS7609",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED PHILIPS 75PUS7609/12",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-philips-75pus7609122.html",
+     "price": 62990,
+     "oldPrice": 104900,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED PHILIPS 75PUS7609/12",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 62990,
+   "bestStore": "aza",
+   "maxPrice": 62990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "lg|75ua74006lb",
+   "brand": "LG",
+   "size": 75,
+   "model": "75UA74006LB",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED LG 75UA74006LB",
+     "url": "https://www.azaelectronics.com/tvs/tv-led-lg-75ua74006lb2.html",
+     "price": 68990,
+     "oldPrice": 109999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED LG 75UA74006LB",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 68990,
+   "bestStore": "aza",
+   "maxPrice": 68990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|65|s",
+   "brand": "XIAOMI",
+   "size": 65,
+   "model": null,
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Xiaomi TV S Mini LED 65 2025",
+     "url": "https://shpresa.al/product/xiaomi-tv-s-mini-led-65-2025/",
+     "price": 69990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Xiaomi TV S Mini LED 65 2025",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 69990,
+   "bestStore": "shpresa",
+   "maxPrice": 69990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|75|u8072f",
+   "brand": "SAMSUNG",
+   "size": 75,
+   "model": "U8072F",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 75\" Crystal UHD U8072F 4K Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-75-crystal-uhd-u8072f-4k-smart-tv-2025/",
+     "price": 71990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 75\" Crystal UHD U8072F 4K Smart TV (2025)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 71990,
+   "bestStore": "shpresa",
+   "maxPrice": 71990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|85|u8072f",
+   "brand": "SAMSUNG",
+   "size": 85,
+   "model": "UE85U8072FUXXH",
+   "offers": [
+    {
+     "store": "aza",
+     "name": "TV LED SAMSUNG UE85U8072FUXXH",
+     "url": "https://www.azaelectronics.com/tvs?product_id=9056",
+     "price": 89990,
+     "oldPrice": 154999,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "TV LED SAMSUNG UE85U8072FUXXH",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 89990,
+   "bestStore": "aza",
+   "maxPrice": 89990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|75|u8072h",
+   "brand": "SAMSUNG",
+   "size": 75,
+   "model": "U8072H",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 75\" Crystal UHD U8072H 4K Vision AI Smart TV (2026)",
+     "url": "https://shpresa.al/product/samsung-75-crystal-uhd-u8072h-4k-vision-ai-smart-tv-2026/",
+     "price": 91990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 75\" Crystal UHD U8072H 4K Vision AI Smart TV (2026)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 91990,
+   "bestStore": "shpresa",
+   "maxPrice": 91990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "xiaomi|75|s",
+   "brand": "XIAOMI",
+   "size": 75,
+   "model": null,
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Xiaomi TV S Mini LED 75 2025",
+     "url": "https://shpresa.al/product/xiaomi-tv-s-mini-led-75-2025/",
+     "price": 94990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Xiaomi TV S Mini LED 75 2025",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 94990,
+   "bestStore": "shpresa",
+   "maxPrice": 94990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  },
+  {
+   "key": "samsung|85|u8090f",
+   "brand": "SAMSUNG",
+   "size": 85,
+   "model": "U8090F",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 85\" Crystal UHD U8090F 4K Smart TV (2025)",
+     "url": "https://shpresa.al/product/samsung-85-crystal-uhd-u8090f-4k-smart-tv-2025/",
+     "price": 109990,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-23T11:26:10.837Z"
+    }
+   ],
+   "title": "Samsung 85\" Crystal UHD U8090F 4K Smart TV (2025)",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 109990,
+   "bestStore": "shpresa",
+   "maxPrice": 109990,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:26:10.837Z"
+  }
+ ]
+}

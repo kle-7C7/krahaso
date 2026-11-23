@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Krahaso — best electronics prices in Albania</title>
+<meta name="description" content="Compare TV prices across Neptun, Globe, Shpresa, Ozone and AZA Electronics and find the best offer.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23183a2e'/><path d='M9 17l5 5 9-11' stroke='%23b9f27c' stroke-width='3.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <a class="brand" href="./">
+      <span class="logo" aria-hidden="true">✓</span>
+      <span>Krahaso</span>
+    </a>
+    <p class="tagline">One search, five stores. The lowest price, every few hours.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <h1 id="headline">Find the best TV deal in Albania</h1>
+    <p class="sub">Prices from <span id="store-names">Neptun, Globe, Shpresa, Ozone and AZA Electronics</span>, matched model by model.</p>
+    <div class="status" id="status" aria-live="polite"></div>
+  </section>
+
+  <nav class="tabs" id="tabs" aria-label="Categories"></nav>
+
+  <section class="toolbar" aria-label="Filters">
+    <label class="search">
+      <span class="sr">Search</span>
+      <input id="q" type="search" placeholder="Search model, brand… e.g. 55 U8072F" autocomplete="off">
+    </label>
+    <select id="brand" aria-label="Brand"><option value="">All brands</option></select>
+    <select id="size" aria-label="Screen size">
+      <option value="">All sizes</option>
+      <option value="0-43">Up to 43″</option>
+      <option value="44-50">48–50″</option>
+      <option value="51-58">55–58″</option>
+      <option value="59-70">65″</option>
+      <option value="71-200">75″ and up</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="spread">Biggest difference between stores</option>
+      <option value="price-asc">Lowest price</option>
+      <option value="price-desc">Highest price</option>
+      <option value="discount">Biggest discount</option>
+      <option value="size">Screen size</option>
+    </select>
+    <label class="check"><input id="multi" type="checkbox" checked> Sold in 2+ stores</label>
+    <label class="check"><input id="stock" type="checkbox"> In stock only</label>
+  </section>
+
+  <p class="count" id="count"></p>
+  <section id="list" class="list" aria-live="polite"></section>
+  <p class="empty" id="empty" hidden>No products match these filters.</p>
+</main>
+
+<footer class="wrap foot">
+  <p>Prices are read automatically from each store's website and can change at any time. Always confirm the price on the store page before buying. Products are matched by model number; if two different products were grouped together, add a manual match in <code>config/aliases.json</code>.</p>
+</footer>
+
+<template id="card-tpl">
+  <article class="card">
+    <div class="card-main">
+      <div class="thumb"><img alt="" loading="lazy"></div>
+      <div class="info">
+        <h2 class="title"></h2>
+        <p class="meta"></p>
+        <div class="badges"></div>
+      </div>
+      <div class="best">
+        <span class="best-label">Best price</span>
+        <span class="best-price"></span>
+        <span class="best-store"></span>
+        <span class="best-save"></span>
+      </div>
+    </div>
+    <ol class="offers"></ol>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

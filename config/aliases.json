@@ -1,0 +1,5 @@
+{
+  "_comment": "Manual matches. Map a product URL (or exact product name) to a product key so the same product from different stores is grouped. Example: \"https://store.al/some-tv\": \"samsung|55|u8072f\"",
+  "byUrl": {},
+  "byName": {}
+}
