@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T11:38:22.574Z",
+ "updatedAt": "2026-11-23T11:39:47.442Z",
  "stores": {
   "neptun": {
    "name": "Neptun",
@@ -26,7 +26,7 @@
   {
    "id": "tv",
    "label": "TVs",
-   "updatedAt": "2026-11-23T11:37:47.756Z",
+   "updatedAt": "2026-11-23T11:39:14.835Z",
    "products": 346
   }
  ]
