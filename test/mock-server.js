@@ -1,6 +1,7 @@
 // A local fake of the five store platforms, using each platform's standard markup/API shape.
 // Used by the tests so the scraper can be exercised end to end without hitting real stores.
 import http from 'node:http';
+import fs from 'node:fs';
 
 const aza = (page) => page > 1 ? '<div class="row"></div>' : `
 <div class="main-products product-grid">
@@ -33,19 +34,19 @@ const ozone = (page) => ({
   ],
 });
 
-// JS-rendered store: products arrive from a JSON API and are drawn by script (like Neptun).
-const neptunPage = `<!doctype html><body><div id="app">Loading…</div><script>
-fetch('/neptun/api/products').then(r=>r.json()).then(d=>{
-  document.getElementById('app').innerHTML = d.items.map(p =>
-    '<div class="product-card"><a href="/categories/tv/'+p.slug+'"><h3>'+p.title+'</h3></a>'+
-    '<span class="old">'+p.RegularPrice.toLocaleString('de-DE')+'L</span> <span class="new">'+p.DiscountPrice.toLocaleString('de-DE')+'L</span>'+
-    '<span>Kurse '+(p.RegularPrice-p.DiscountPrice).toLocaleString('de-DE')+'L</span><span>1.490 lekë/muaj</span></div>').join('');
-});
-</script></body>`;
-const neptunApi = { items: [
-  { title: 'TV SAMSUNG LED UE55U8072FUXXH', slug: 'TV-SAMSUNG-LED-UE55U8072FUXXH-TV5600', RegularPrice: 59990, DiscountPrice: 35990 },
-  { title: 'TV 55UR73006LA.AEU', slug: 'TV-LG-55UR73006LA-TV5601', RegularPrice: 52990, DiscountPrice: 34990 },
-] };
+// Neptun: first products embedded as JSON in data-categorydetails, more via POST LoadProductsForCategory.
+// Built from a real Neptun product record (test/fixtures/neptun-product.json).
+const tpl = JSON.parse(fs.readFileSync(new URL('./fixtures/neptun-product.json', import.meta.url), 'utf8'));
+const np = (Title, Url, RegularPrice, DiscountPrice) => ({ ...tpl, Title, Url, RegularPrice, DiscountPrice, ActualPrice: DiscountPrice, HasDiscount: true });
+const neptunAll = [
+  np('TV SAMSUNG LED UE55U8072FUXXH', 'TV-SAMSUNG-LED-UE55U8072FUXXH-TV5600', 59990, 35990),
+  np('TV LG LED 55UR73006LA.AEU', 'TV-LG-55UR73006LA-TV5601', 52990, 34990),
+  np('TV TCL QLED 55T69C', 'TV-TCL-QLED-55T69C-TV6047', 41999, 27999),
+];
+const esc = (o) => JSON.stringify(o).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+const neptunPage = `<!doctype html><body><div ng-controller="shopMainController" id="angularApp"
+  data-categorydetails="${esc({ Products: neptunAll.slice(0, 2), NumberOfProducts: 3, Id: 276 })}"
+  data-initialSearchModel="${esc({ CategoryId: 276, Sort: 4, ItemsPerPage: 20, CurrentPage: 1 })}"></div></body>`;
 
 // JS-rendered store with ?page=N (like Globe).
 const globePage = (page) => {
@@ -67,7 +68,16 @@ export function startMock() {
     if (u.pathname === '/shpresa/wp-json/wc/store/v1/products') return send(page > 1 ? [] : shpresa, 'application/json');
     if (u.pathname === '/ozone/32-tv') return u.searchParams.has('from-xhr') ? send(ozone(page), 'application/json') : send('<html></html>');
     if (u.pathname === '/neptun/te_gjithe_tv.nspx') return send(neptunPage);
-    if (u.pathname === '/neptun/api/products') return send(neptunApi, 'application/json');
+    if (u.pathname === '/neptun/NeptunCategories/LoadProductsForCategory' && req.method === 'POST') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      return req.on('end', () => {
+        const { model } = JSON.parse(body);
+        if (req.headers['from-angular'] !== 'true' || model.CategoryId !== 276) { res.writeHead(400); return res.end(); }
+        const items = neptunAll.slice((model.CurrentPage - 1) * model.ItemsPerPage, model.CurrentPage * model.ItemsPerPage);
+        send({ Batch: { Items: items, Config: { TotalItems: neptunAll.length, ItemsPerPage: model.ItemsPerPage } } }, 'application/json');
+      });
+    }
     if (u.pathname === '/globe/products') return send(globePage(page));
     if (u.pathname === '/blocked/32-tv') { res.writeHead(403); return res.end('blocked'); }
     res.writeHead(404); res.end();

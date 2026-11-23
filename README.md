@@ -20,7 +20,7 @@ server.js          optional self-hosted server (website + scrape timer)
 | Shpresa | WooCommerce | Public Store API (JSON), HTML fallback |
 | AZA Electronics | OpenCart | Category HTML, `?limit=100&page=N` |
 | Ozone | PrestaShop | JSON listing (XHR), HTML fallback |
-| Neptun | JavaScript app | Headless Chrome (reads the rendered cards + the JSON the page loads) |
+| Neptun | Angular app | Product JSON embedded in the page (`data-categorydetails`) + `POST /NeptunCategories/LoadProductsForCategory` for all pages; headless Chrome fallback |
 | Globe | JavaScript app | Headless Chrome, `?page=N` |
 
 If the normal method fails for a store, the scraper retries it with headless Chrome. If that also fails, the store keeps its **last good prices**, marked "price from X ago" on the site, so one blocked run never empties the page. The coloured dots at the top show each store's status: green is OK, amber means the last check failed, grey means not checked yet.

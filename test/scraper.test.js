@@ -51,7 +51,7 @@ test('end to end: scrapes all five store types and picks the best offer', { time
   const cfg = path.join(dir, 'stores.mjs');
   const b = mock.base;
   await fs.writeFile(cfg, `export const stores = {
-    neptun: { name: 'Neptun', homepage: '${b}/neptun', type: 'browser', productLinkPattern: '/categories/.+', categories: { tv: ['${b}/neptun/te_gjithe_tv.nspx'] } },
+    neptun: { name: 'Neptun', homepage: '${b}/neptun', type: 'neptun', productLinkPattern: '/categories/.+', categories: { tv: ['${b}/neptun/te_gjithe_tv.nspx'] } },
     globe: { name: 'Globe', homepage: '${b}/globe', type: 'browser', productLinkPattern: '/products/\\\\d+', pageParam: 'page', categories: { tv: ['${b}/globe/products?categoryId=3048'] } },
     shpresa: { name: 'Shpresa', homepage: '${b}/shpresa', type: 'woocommerce', categories: { tv: [{ slug: 'televizor', url: '${b}/shpresa/cat/' }] } },
     ozone: { name: 'Ozone', homepage: '${b}/ozone', type: 'prestashop', categories: { tv: ['${b}/ozone/32-tv'] } },
@@ -67,6 +67,10 @@ test('end to end: scrapes all five store types and picks the best offer', { time
   assert.equal(s55.bestStore, 'neptun');
   assert.equal(s55.bestPrice, 35990);
   assert.equal(s55.maxPrice, 39990);
+
+  const tcl = data.products.find((p) => p.key === 'tcl|55t69c');
+  assert.equal(tcl?.offers[0].price, 27999, 'Neptun page-2 product fetched through LoadProductsForCategory');
+  assert.ok(tcl.offers[0].url.endsWith('/categories/te-gjithe-tv/TV-TCL-QLED-55T69C-TV6047'));
 
   const lg = data.products.find((p) => p.key === 'lg|55ur73006la');
   assert.deepEqual(lg.offers.map((o) => o.store).sort(), ['aza', 'globe', 'neptun']);

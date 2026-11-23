@@ -6,9 +6,11 @@ export const stores = {
   neptun: {
     name: 'Neptun',
     homepage: 'https://www.neptun.al',
-    // Neptun renders products with JavaScript, so a headless browser is used.
-    type: 'browser',
+    // Product data is embedded as JSON in the page + a JSON endpoint for more pages
+    // (see scraper/adapters/neptun.js). Falls back to the headless browser if blocked.
+    type: 'neptun',
     productLinkPattern: '/categories/.+',
+    pageParam: 'page', // used only by the browser fallback
     categories: {
       tv: ['https://www.neptun.al/te_gjithe_tv.nspx'],
     },

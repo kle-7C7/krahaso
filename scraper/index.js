@@ -15,6 +15,7 @@ import { scrapeWooCommerce } from './adapters/woocommerce.js';
 import { scrapeOpenCart } from './adapters/opencart.js';
 import { scrapePrestaShop } from './adapters/prestashop.js';
 import { scrapeWithBrowser, closeBrowser } from './adapters/browser.js';
+import { scrapeNeptun } from './adapters/neptun.js';
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const DATA = process.env.KRAHASO_DATA || path.join(ROOT, 'public', 'data');
@@ -47,6 +48,7 @@ async function scrapeSource(store, source, log) {
     opencart: () => scrapeOpenCart(store, url, log),
     prestashop: () => scrapePrestaShop(store, url, log),
     browser: () => scrapeWithBrowser(store, url, log),
+    neptun: () => scrapeNeptun(store, url, log),
   }[store.type];
   if (!primary) throw new Error(`Unknown store type ${store.type}`);
   try {

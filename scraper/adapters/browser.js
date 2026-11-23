@@ -10,6 +10,7 @@ import { chromium } from 'playwright';
 import { parsePrice } from '../lib/price.js';
 import { normalizeName } from '../lib/match.js';
 import { UA, absUrl, sleep } from '../lib/http.js';
+import { neptunProduct } from './neptun.js';
 
 let browserPromise = null;
 export async function getBrowser() {
@@ -167,6 +168,15 @@ export async function scrapeWithBrowser(store, url, log) {
     await autoScroll(page);
     const cards = await page.evaluate(readCardsInPage, store.productLinkPattern || '.');
     dom.push(...cards);
+    // Neptun keeps the current page's products as JSON on <div data-categorydetails>
+    const embedded = await page.evaluate(() => {
+      try { return JSON.parse(document.querySelector('[data-categorydetails]')?.getAttribute('data-categorydetails') || 'null')?.Products || []; }
+      catch { return []; }
+    });
+    if (embedded.length) {
+      const origin = store.homepage.replace(/\/$/, '');
+      dom.push(...embedded.map((p) => neptunProduct(p, origin)).filter((p) => p.name && p.price));
+    }
     return cards.length;
   };
 
