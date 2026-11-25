@@ -1,7 +1,7 @@
 {
  "category": "tv",
  "label": "TVs",
- "updatedAt": "2026-11-25T08:51:28.462Z",
+ "updatedAt": "2026-11-25T19:26:53.162Z",
  "stores": {
   "neptun": {
    "name": "Neptun",
@@ -9,7 +9,7 @@
    "ok": false,
    "count": 20,
    "lastSuccess": "2026-11-23T11:48:24.977Z",
-   "lastAttempt": "2026-11-25T08:51:28.462Z",
+   "lastAttempt": "2026-11-25T19:26:53.162Z",
    "error": "0 products found (page layout may have changed)"
   },
   "shpresa": {
@@ -17,31 +17,31 @@
    "homepage": "https://shpresa.al",
    "ok": true,
    "count": 16,
-   "lastSuccess": "2026-11-25T08:51:28.462Z",
-   "lastAttempt": "2026-11-25T08:51:28.462Z"
+   "lastSuccess": "2026-11-25T19:26:53.162Z",
+   "lastAttempt": "2026-11-25T19:26:53.162Z"
   },
   "aza": {
    "name": "AZA Electronics",
    "homepage": "https://www.azaelectronics.com",
    "ok": true,
    "count": 39,
-   "lastSuccess": "2026-11-25T08:51:28.462Z",
-   "lastAttempt": "2026-11-25T08:51:28.462Z"
+   "lastSuccess": "2026-11-25T19:26:53.162Z",
+   "lastAttempt": "2026-11-25T19:26:53.162Z"
   },
   "globe": {
    "name": "Globe",
    "homepage": "https://globe.al",
    "ok": true,
    "count": 314,
-   "lastSuccess": "2026-11-25T08:51:28.462Z",
-   "lastAttempt": "2026-11-25T08:51:28.462Z"
+   "lastSuccess": "2026-11-25T19:26:53.162Z",
+   "lastAttempt": "2026-11-25T19:26:53.162Z"
   },
   "ozone": {
    "name": "Ozone",
    "homepage": "https://ozone.al",
    "ok": false,
    "error": "0 products found (page layout may have changed)",
-   "lastAttempt": "2026-11-25T08:51:28.462Z"
+   "lastAttempt": "2026-11-25T19:26:53.162Z"
   }
  },
  "products": [
@@ -70,7 +70,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/3d334dde-6c12-46b7-b449-8382a92d39fe/3d334dde-6c12-46b7-b449-8382a92d39fe_6a184fa9003c2.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "shpresa",
@@ -80,7 +80,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2026/05/2ebbe582-ue55u8072fuxxh-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 55\" Crystal UHD U8072H 4K Smart TV (2026)",
@@ -107,7 +107,7 @@
      "oldPrice": 154999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -117,7 +117,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL85SA4KUE85U8072FUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 85\" 4K UE85U8072FUXXH",
@@ -144,7 +144,7 @@
      "oldPrice": 62990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV20668-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -154,7 +154,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL50PH4K50PUS807912.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 50\" 4K 50PUS8079/12",
@@ -181,7 +181,7 @@
      "oldPrice": 54990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -191,7 +191,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55PH4K55PUS781012.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 55\" 4K 55PUS7810/12",
@@ -202,6 +202,43 @@
    "maxPrice": 54900,
    "spread": 24910,
    "previousBest": null,
+   "firstSeen": "2026-11-23T11:48:24.977Z"
+  },
+  {
+   "key": "samsung|50|m70h",
+   "brand": "SAMSUNG",
+   "size": 50,
+   "model": "UE50M70HAUXXH",
+   "offers": [
+    {
+     "store": "shpresa",
+     "name": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
+     "url": "https://shpresa.al/product/samsung-50-mini-led-m70h-4k-samsung-vision-ai-smart-tv-2026/",
+     "price": 39990,
+     "oldPrice": null,
+     "inStock": false,
+     "image": "https://assets.shpresa.al/shop/2025/07/708f924b-tv582-4.jpg",
+     "seenAt": "2026-11-25T19:26:53.162Z"
+    },
+    {
+     "store": "globe",
+     "name": "Televizor Mini LED Samsung 50\" 4K UE50M70HAUXXH",
+     "url": "https://globe.al/products?categoryId=3048",
+     "price": 59990,
+     "oldPrice": null,
+     "inStock": false,
+     "image": "https://media.globe.com.al/62542683-78aa-4a2f-9a94-e5f327b9318b/62542683-78aa-4a2f-9a94-e5f327b9318b_6a61efd1b845d.avif",
+     "seenAt": "2026-11-25T19:26:53.162Z"
+    }
+   ],
+   "title": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
+   "image": "https://assets.shpresa.al/shop/2025/07/708f924b-tv582-4.jpg",
+   "storeCount": 2,
+   "bestPrice": 39990,
+   "bestStore": "shpresa",
+   "maxPrice": 59990,
+   "spread": 20000,
+   "previousBest": 59990,
    "firstSeen": "2026-11-23T11:48:24.977Z"
   },
   {
@@ -218,7 +255,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/05/2ebbe582-ue55u8072fuxxh-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -228,7 +265,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/3ac9668e-2f47-464d-878a-488935d5a323/3ac9668e-2f47-464d-878a-488935d5a323_6a61ed7027d0c.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 75\" Crystal UHD U8072H 4K Vision AI Smart TV (2026)",
@@ -255,7 +292,7 @@
      "oldPrice": 44990,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/05/2ebbe582-ue55u8072fuxxh-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "aza",
@@ -265,7 +302,7 @@
      "oldPrice": 59990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 55\" Crystal UHD U8072F 4K Smart TV (2025)",
@@ -292,7 +329,7 @@
      "oldPrice": 35990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV21419-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -302,7 +339,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL43PH4K43PUS700012.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 43\" 4K 43PUS7000/12",
@@ -340,7 +377,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/3d271cac-580a-4bf9-96ba-33927bf3dd25/3d271cac-580a-4bf9-96ba-33927bf3dd25_6a589b02e7ba6.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 40\" 4K 40S5L",
@@ -367,7 +404,7 @@
      "oldPrice": 64990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -377,7 +414,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/ffdbc14e-b022-4c71-a411-cc23da94a833/ffdbc14e-b022-4c71-a411-cc23da94a833_69ba6d49b7e5f.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 65\" 4K 65PUS7000/12",
@@ -415,7 +452,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/6885d68b-032c-4fbd-9357-d76ce3e72ccb/6885d68b-032c-4fbd-9357-d76ce3e72ccb_6a589b8c28d99.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 43\" 4K 43S5L",
@@ -442,7 +479,7 @@
      "oldPrice": 54990,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/05/dcff9cbb-qe55q7f2auxxh-3.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "globe",
@@ -452,7 +489,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQ55SA4KQE55Q7F2AUXXH.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 55\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
@@ -490,7 +527,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0a657a8c-6717-44e1-a307-6949935bdc0a/0a657a8c-6717-44e1-a307-6949935bdc0a_6acf285cbb50d.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 55\" 4K 55T69C",
@@ -528,7 +565,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c6a9c20a-2414-42ee-9b9b-ecb7ce8f606a/c6a9c20a-2414-42ee-9b9b-ecb7ce8f606a_6a61eca258f88.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 43\" 4K UE43U8072HUXXH",
@@ -539,43 +576,6 @@
    "maxPrice": 44990,
    "spread": 0,
    "previousBest": 28999,
-   "firstSeen": "2026-11-23T11:48:24.977Z"
-  },
-  {
-   "key": "samsung|50|m70h",
-   "brand": "SAMSUNG",
-   "size": 50,
-   "model": "UE50M70HAUXXH",
-   "offers": [
-    {
-     "store": "globe",
-     "name": "Televizor Mini LED Samsung 50\" 4K UE50M70HAUXXH",
-     "url": "https://globe.al/products?categoryId=3048",
-     "price": 59990,
-     "oldPrice": null,
-     "inStock": true,
-     "image": "https://media.globe.com.al/62542683-78aa-4a2f-9a94-e5f327b9318b/62542683-78aa-4a2f-9a94-e5f327b9318b_6a61efd1b845d.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
-    },
-    {
-     "store": "shpresa",
-     "name": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
-     "url": "https://shpresa.al/product/samsung-50-mini-led-m70h-4k-samsung-vision-ai-smart-tv-2026/",
-     "price": 39990,
-     "oldPrice": null,
-     "inStock": false,
-     "image": "https://assets.shpresa.al/shop/2025/07/708f924b-tv582-4.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
-    }
-   ],
-   "title": "Samsung 50\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026)",
-   "image": "https://media.globe.com.al/62542683-78aa-4a2f-9a94-e5f327b9318b/62542683-78aa-4a2f-9a94-e5f327b9318b_6a61efd1b845d.avif",
-   "storeCount": 2,
-   "bestPrice": 59990,
-   "bestStore": "globe",
-   "maxPrice": 59990,
-   "spread": 0,
-   "previousBest": 39990,
    "firstSeen": "2026-11-23T11:48:24.977Z"
   },
   {
@@ -592,7 +592,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/9873755f-eb22-45c2-812e-3613a87b43de/9873755f-eb22-45c2-812e-3613a87b43de_6a1fd79da55ac.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "shpresa",
@@ -602,7 +602,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2026/05/2ebbe582-ue55u8072fuxxh-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 65\" Crystal UHD U8092F 4K Smart TV (2025)",
@@ -629,7 +629,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL75SA4KUE75U8072FUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     },
     {
      "store": "shpresa",
@@ -639,7 +639,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2026/05/2ebbe582-ue55u8072fuxxh-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 75\" Crystal UHD U8072F 4K Smart TV (2025)",
@@ -666,7 +666,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Multi Prize 2x ISKRA ER-2SA",
@@ -675,33 +675,6 @@
    "bestPrice": 250,
    "bestStore": "globe",
    "maxPrice": 250,
-   "spread": 0,
-   "previousBest": null,
-   "firstSeen": "2026-11-23T11:56:09.908Z"
-  },
-  {
-   "key": "x|er1s2e",
-   "brand": null,
-   "size": null,
-   "model": "ER1S2E",
-   "offers": [
-    {
-     "store": "globe",
-     "name": "Multi Prize 3x ISKRA ER-1S2E",
-     "url": "https://globe.al/products?categoryId=3048",
-     "price": 290,
-     "oldPrice": null,
-     "inStock": true,
-     "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
-    }
-   ],
-   "title": "Multi Prize 3x ISKRA ER-1S2E",
-   "image": null,
-   "storeCount": 1,
-   "bestPrice": 290,
-   "bestStore": "globe",
-   "maxPrice": 290,
    "spread": 0,
    "previousBest": null,
    "firstSeen": "2026-11-23T11:56:09.908Z"
@@ -720,10 +693,37 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Multi Prize 3x ISKRA ER-3SA",
+   "image": null,
+   "storeCount": 1,
+   "bestPrice": 290,
+   "bestStore": "globe",
+   "maxPrice": 290,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:56:09.908Z"
+  },
+  {
+   "key": "x|er1s2e",
+   "brand": null,
+   "size": null,
+   "model": "ER1S2E",
+   "offers": [
+    {
+     "store": "globe",
+     "name": "Multi Prize 3x ISKRA ER-1S2E",
+     "url": "https://globe.al/products?categoryId=3048",
+     "price": 290,
+     "oldPrice": null,
+     "inStock": true,
+     "image": null,
+     "seenAt": "2026-11-25T19:26:53.162Z"
+    }
+   ],
+   "title": "Multi Prize 3x ISKRA ER-1S2E",
    "image": null,
    "storeCount": 1,
    "bestPrice": 290,
@@ -747,7 +747,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTRB045",
@@ -774,7 +774,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c6d767ba-64b6-4105-a542-d267e6832d7f/c6d767ba-64b6-4105-a542-d267e6832d7f_6ae9bdb780c4a.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTRB017",
@@ -801,7 +801,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/2ccb5546-701c-4bbe-be8d-7c0f8d2a0e8b/2ccb5546-701c-4bbe-be8d-7c0f8d2a0e8b_6ae9b9d1c20a5.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTRB010",
@@ -828,7 +828,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/abfd1067-dee8-4458-ab3f-ce5ebf9f37b1/abfd1067-dee8-4458-ab3f-ce5ebf9f37b1_6ae9b83ad71a3.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTRB007",
@@ -855,7 +855,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Multi Prize 3x ISKRA ER-3S-K",
@@ -882,7 +882,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XG3TD12B/B5PZ3XG3TD12B_6a01a35ca0ba8.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 3x 1.5M G3TD12B",
@@ -909,7 +909,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ4XG4TD12B/B5PZ4XG4TD12B_6a01a3a8c1bd1.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 4x 1.5M G4TD12B",
@@ -936,7 +936,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XG3TD22B/B5PZ3XG3TD22B_6a01a37f2f6fe.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 3x 2M G3TD22B",
@@ -963,7 +963,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese ISKRA 3x 3m 3S-3MK",
@@ -990,7 +990,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese ISKRA 5x 3m 5S-3MK",
@@ -1017,7 +1017,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ4XG4TD22B/B5PZ4XG4TD22B_6a01a3e1a65bf.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 4x 2M G4TD22B",
@@ -1044,7 +1044,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XCG3TA12B/B5PZ3XCG3TA12B_6a06c6936fb58.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 3x +Celes mbrojtes 1.5M G3TA12B",
@@ -1071,7 +1071,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B0PAPHSVC1116B10.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pastrues Ekrani Philips SVC1116B/10",
@@ -1098,7 +1098,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XCG3TA22B/B5PZ3XCG3TA22B_6a01a2998b6d6.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 3x +Celes mbrojtes 2M G3TA22B",
@@ -1125,7 +1125,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ6XG6TD12B/B5PZ6XG6TD12B_6a01a47ee6299.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 6x 1.5M G6TD12B",
@@ -1152,7 +1152,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese ISKRA 5x 5m 5S-5MK",
@@ -1179,7 +1179,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZPHI3XCHP2134W58/B5PZPHI3XCHP2134W58_6a019f9120506.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 3x 1.5M CHP2134W/58",
@@ -1206,7 +1206,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVSSUPTUB001/B2PUVSSUPTUB001_69fd8fccdc9b9.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTUB001",
@@ -1233,7 +1233,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVSSUPTUB003/B2PUVSSUPTUB003_6a06c6e86023e.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTUB003",
@@ -1260,7 +1260,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ6XCG6TA12B/B5PZ6XCG6TA12B_6a01a42c04522.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 6x +Celes mbrojtes 1.5M G6TA12B",
@@ -1287,7 +1287,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese ISKRA 9x 3m 3S6E-3MK",
@@ -1314,7 +1314,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese ISKRA 3x 5m 3S-5MK",
@@ -1341,7 +1341,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVPHISRP201810.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal Philips SRP2018/10",
@@ -1368,7 +1368,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ6XG6TD22B/B5PZ6XG6TD22B_6a01a4a11e693.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 6x 2M G6TD22B",
@@ -1395,7 +1395,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVSSUPTRB008/B2PUVSSUPTRB008_6a01a95910b2f.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTRB008",
@@ -1422,7 +1422,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PPHISRP401010/B2PPHISRP401010_69fd8d9e2a4a3.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult Philips SRP4010/10",
@@ -1449,7 +1449,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ6XCG6TD22B/B5PZ6XCG6TD22B_6a01a441acf3a.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 6x +Celes mbrojtes 2M G6TA22B",
@@ -1476,7 +1476,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVSSUPTUB002/B2PUVSSUPTUB002_6a01a9915a14a.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal TV Superior SUPTUB002",
@@ -1503,7 +1503,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZPHI4XCHP2145U58/B5PZPHI4XCHP2145U58_6a01a4e844575.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatuese 4x 1.5M CHP2145U/58",
@@ -1530,7 +1530,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XCUSBG3TU22B/B5PZ3XCUSBG3TU22B_6a01a33dbfbca.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 3x +Celes mbrojtes USB STD Charger 2M G3TU22B",
@@ -1557,7 +1557,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVPHISRP403010.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal Philips SRP4030/10",
@@ -1584,7 +1584,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2PUVPHISRP400010/B2PUVPHISRP400010_69fd8f3b43ffb.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Pult universal Philips SRP4000/10",
@@ -1611,7 +1611,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PZ3XCUSBG3TH22B/B5PZ3XCUSBG3TH22B_6a01a2de27e6d.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Zgjatues 3x +Celes mbrojtes USB PD Charger 2M G3TH22B",
@@ -1638,7 +1638,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN3140A58.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN3140A/58",
@@ -1665,7 +1665,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN7040WA58/B5PRPRPHISPN7040WA58_6a01a03bd97ff.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN7040/58",
@@ -1692,7 +1692,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN3032WA58/B5PRPRPHISPN3032WA58_6a019fc64bec7.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Philips SPN3032WA/58",
@@ -1719,7 +1719,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN5144A58/B5PRPRPHISPN5144A58_6a01a01d98a33.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN5144A/58",
@@ -1746,7 +1746,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN3180A58.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN3180A/58",
@@ -1773,7 +1773,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN7080WA58/B5PRPRPHISPN7080WA58_6a01a24479655.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN7080WA/58",
@@ -1800,7 +1800,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B5PRPRPHISPN5185A58.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Prize Protection Philips SPN5185A/58",
@@ -1827,7 +1827,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFA65TKBXC/B3KFTVSVGSCFA65TKBXC_69fdadfe085ab.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFA65TKBXC",
@@ -1854,7 +1854,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFF65WTBXC/B3KFTVSVGSCFF65WTBXC_6a01aa1ab1e51.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFF65WTBXC",
@@ -1881,7 +1881,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFF65TKBXC/B3KFTVSVGSCFF65TKBXC_6a01a9ed1f950.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFF65TKBXC",
@@ -1908,7 +1908,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFA65WTBXC.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFA65WTBXC",
@@ -1935,7 +1935,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFA50BEBXC/B3KFTVSVGSCFA50BEBXC_69fda1331a154.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFA50BEBXC",
@@ -1962,7 +1962,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFA55BEBXC/B3KFTVSVGSCFA55BEBXC_69fda245b969d.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFA55BEBXC",
@@ -1989,7 +1989,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFA55TRCXC/B3KFTVSVGSCFA55TRCXC_69fdada777f6d.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFA55TRCXC",
@@ -2016,7 +2016,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFT32BEXC/B3KFTVSVGSCFT32BEXC_69fdae5621c1e.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFT32BE/XC",
@@ -2043,7 +2043,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/67b36cef-f55e-451a-9bd9-ec62d208c89c/67b36cef-f55e-451a-9bd9-ec62d208c89c_6a5a3cf5c4bb2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Stende per TV 37\"-75\" Brateck FS32-46W",
@@ -2070,7 +2070,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFT43BWXC.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFT43BW/XC",
@@ -2097,7 +2097,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFT65BWXC.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFT65BW/XC",
@@ -2124,7 +2124,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFT43WTXC.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFT43WT/XC",
@@ -2151,7 +2151,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B3KFTVSVGSCFT50BWXC.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Kornize Frame TV Samsung VG-SCFT50BW/XC",
@@ -2178,7 +2178,7 @@
      "oldPrice": 15999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache/catalog/1...fobemm/WhatsApp%20Image%202024-12-09%20at%2012.40.46_14bfe54f-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 32' UHD SMART",
@@ -2233,7 +2233,7 @@
      "oldPrice": 19999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED SUNNY 32 HD WEBOS",
@@ -2288,7 +2288,7 @@
      "oldPrice": 24990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 43 FHD SMART",
@@ -2315,7 +2315,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL32FOX32AOS470E.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 32\" 32AOS470E",
@@ -2426,7 +2426,7 @@
      "oldPrice": 22990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED FOBEM ML40EW4000",
@@ -2453,7 +2453,7 @@
      "oldPrice": 24990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED FOBEM ML43EW4000",
@@ -2508,7 +2508,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL32FOX32WOS640E/B2TVL32FOX32WOS640E_69fc5da44c34c.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 32\" 32WOS640E",
@@ -2535,7 +2535,7 @@
      "oldPrice": 31990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED SUNNY 43 FHD WEBOS",
@@ -2562,7 +2562,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL32PH32PHS550712.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 32\" 32PHS5507/12",
@@ -2589,7 +2589,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL42FOX42AOS470E/B2TVL42FOX42AOS470E_69fc5bab024ab.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 42\" 42AOS470E",
@@ -2616,7 +2616,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL32HI32A4N.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 32\" 32A4N",
@@ -2643,7 +2643,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/3df2ea31-992d-40d6-b8fe-4164d64c805c/3df2ea31-992d-40d6-b8fe-4164d64c805c_6a43969cc0ef8.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 24\" FHD UE24F6002FKXXH",
@@ -2670,7 +2670,7 @@
      "oldPrice": 32990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 50' UHD SMART",
@@ -2697,7 +2697,7 @@
      "oldPrice": 34990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED FOBEM ML50EW8000F",
@@ -2752,7 +2752,7 @@
      "oldPrice": 39900,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED SUNNY 50 UHD WEBOS",
@@ -2779,7 +2779,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/d2bb49e7-4f0d-4348-9437-d43172407a4e/d2bb49e7-4f0d-4348-9437-d43172407a4e_6a439753dca42.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 27\" FHD UE27F6002FKXXH",
@@ -2806,7 +2806,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL43FOX43AOS460F.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 43\" 43AOS460F",
@@ -2833,7 +2833,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/912bf52d-8fef-4ca2-9751-298c175778d6/912bf52d-8fef-4ca2-9751-298c175778d6_6a5a3b2eb7b11.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Stende per TV 60\"-100\" Brateck FS44- 610TW",
@@ -2860,7 +2860,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2025/10/19941e19-tv584-1-300x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Xiaomi TV A 43 2026",
@@ -2887,7 +2887,7 @@
      "oldPrice": 39990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 55' UHD SMART",
@@ -2914,7 +2914,7 @@
      "oldPrice": 44990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV21417-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 50PUS7000/12",
@@ -3025,7 +3025,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/46f8a331-3a56-43b4-a940-4e5dc2f4eae8/46f8a331-3a56-43b4-a940-4e5dc2f4eae8_6a5899b60bb56.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 32\" 4K 32S5L",
@@ -3052,7 +3052,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/7b33ae7b-7f28-4b16-88f3-f8ba069039ff/7b33ae7b-7f28-4b16-88f3-f8ba069039ff_6a1565a21ba91.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 32\" 32A4S",
@@ -3079,7 +3079,7 @@
      "oldPrice": 44900,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED TELEFUNKEN 50UA9005BX",
@@ -3106,7 +3106,7 @@
      "oldPrice": 49900,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED TELEFUNKEN 55UA9005BX",
@@ -3273,7 +3273,7 @@
      "oldPrice": 59990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV20913-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 55PUS7609/12",
@@ -3300,7 +3300,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2023/02/a913c6b0-1-tv528-b-300x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Xiaomi TV L43M7-EAUKR 43\"",
@@ -3327,7 +3327,7 @@
      "oldPrice": 44990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image//catalog/import/TV19710.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TELEVIZOR LG 55UR73006LA",
@@ -3354,7 +3354,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Evolution Kit Samsung SEK-2000/XC",
@@ -3381,7 +3381,7 @@
      "oldPrice": 52990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 65' UHD SMART",
@@ -3408,7 +3408,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL40HI40A4Q.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 40\" 40A4Q",
@@ -3435,7 +3435,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ff76aa7a-740b-4e50-ace3-2cbd1105e1c1/ff76aa7a-740b-4e50-ace3-2cbd1105e1c1_6a1569841e9c6.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 40\" 40A4S",
@@ -3462,7 +3462,7 @@
      "oldPrice": 82990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV19361-250x300.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 50PUS8118/12",
@@ -3489,7 +3489,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL50FOX4K50WOS640E/B2TVL50FOX4K50WOS640E_69fc5c2f8f34c.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 50\" 4K 50WOS640E",
@@ -3516,7 +3516,7 @@
      "oldPrice": 59990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image//catalog/import/TV19655.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TELEVIZOR LG 55UR80003LJ",
@@ -3543,7 +3543,7 @@
      "oldPrice": 61990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED SAMSUNG UE55U7000FUXZT",
@@ -3570,7 +3570,7 @@
      "oldPrice": 64999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED TELEFUNKEN 65UAK9005BX",
@@ -3597,7 +3597,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL43FOX4K43DLE788.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 43\" 4K 43DLE788",
@@ -3624,7 +3624,7 @@
      "oldPrice": 64990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 55PUS8118/12",
@@ -3651,7 +3651,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/99848046-d372-499f-b107-eedf299dc5c4/99848046-d372-499f-b107-eedf299dc5c4_6a439a7472311.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 40\" 40PQS6901/12",
@@ -3678,7 +3678,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55FOX4K55WOS640E.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 55\" 4K 55WOS640E",
@@ -3705,7 +3705,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL43LG4K43AU731C0LA/B2TVL43LG4K43AU731C0LA_69fc61792bc7f.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED LG 43\" 4K 43AU731C0LA",
@@ -3732,7 +3732,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/1cd5cfdd-ea76-4451-ae3d-3f332cae5bc0/1cd5cfdd-ea76-4451-ae3d-3f332cae5bc0_6a5a3c82bf253.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Stende per TV 37\"-70\" Brateck TTV12- 46TW WHITE",
@@ -3759,7 +3759,7 @@
      "oldPrice": 49990,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2024/10/d408010a-ue43du8072uxxh-1-300x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 50\" Crystal UHD DU8000 4K Tizen OS Smart TV (2024)",
@@ -3786,7 +3786,7 @@
      "oldPrice": 69900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 50\" 4K 50PUS8001/12",
@@ -3813,7 +3813,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL43HI4K43A6Q.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 43\" 4K 43A6Q",
@@ -3840,7 +3840,7 @@
      "oldPrice": 64999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED THOMSON 65UG4S14 GOOGLE TV",
@@ -3867,7 +3867,7 @@
      "oldPrice": 79990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED SAMSUNG UE65U8072FUXXH",
@@ -3894,7 +3894,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL43SA4KUE43U8072FUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 43\" 4K UE43U8072FUXXH",
@@ -3921,7 +3921,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f9205f6b-749e-4e2c-9acd-09cc62404295/f9205f6b-749e-4e2c-9acd-09cc62404295_6a1569f38c16e.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 43\" 4K 43A6S",
@@ -3948,7 +3948,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2026/05/8cfded0b-tv552-1.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV Xiaomi A Pro 55\"",
@@ -3975,7 +3975,7 @@
      "oldPrice": 75990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED LG 55QNED80A6A",
@@ -4002,7 +4002,7 @@
      "oldPrice": 74990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV MINI LED PHILIPS 55PML8709/12",
@@ -4029,7 +4029,7 @@
      "oldPrice": 69900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 55\" 4K 55PUS8001/12",
@@ -4056,7 +4056,7 @@
      "oldPrice": 69990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED DELUX 75' UHD SMART",
@@ -4083,7 +4083,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL50FOX4K50WOS630E.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 50\" 4K 50WOS630E",
@@ -4110,11 +4110,38 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c4255788-0943-4e66-8ddf-b52c8aecca8d/c4255788-0943-4e66-8ddf-b52c8aecca8d_6a5895f997e87.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED TCL 55\" 4K 55V6C",
    "image": "https://media.globe.com.al/c4255788-0943-4e66-8ddf-b52c8aecca8d/c4255788-0943-4e66-8ddf-b52c8aecca8d_6a5895f997e87.webp",
+   "storeCount": 1,
+   "bestPrice": 49900,
+   "bestStore": "globe",
+   "maxPrice": 49900,
+   "spread": 0,
+   "previousBest": null,
+   "firstSeen": "2026-11-23T11:56:09.908Z"
+  },
+  {
+   "key": "hisense|43e7hq",
+   "brand": "HISENSE",
+   "size": 43,
+   "model": "43E7HQ",
+   "offers": [
+    {
+     "store": "globe",
+     "name": "Televizor QLED Hisense 43\" 4K 43E7HQ",
+     "url": "https://globe.al/products?categoryId=3048",
+     "price": 49900,
+     "oldPrice": null,
+     "inStock": true,
+     "image": "https://media.globe.com.al/B2TVQ43HI4K43E7HQ.png",
+     "seenAt": "2026-11-25T19:26:53.162Z"
+    }
+   ],
+   "title": "Televizor QLED Hisense 43\" 4K 43E7HQ",
+   "image": "https://media.globe.com.al/B2TVQ43HI4K43E7HQ.png",
    "storeCount": 1,
    "bestPrice": 49900,
    "bestStore": "globe",
@@ -4137,38 +4164,11 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55TCL4K55P61K/B2TVL55TCL4K55P61K_69fc61c7af0c8.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED TCL 55\" 4K 55P61K",
    "image": "https://media.globe.com.al/B2TVL55TCL4K55P61K/B2TVL55TCL4K55P61K_69fc61c7af0c8.webp",
-   "storeCount": 1,
-   "bestPrice": 49900,
-   "bestStore": "globe",
-   "maxPrice": 49900,
-   "spread": 0,
-   "previousBest": null,
-   "firstSeen": "2026-11-23T11:56:09.908Z"
-  },
-  {
-   "key": "hisense|43e7hq",
-   "brand": "HISENSE",
-   "size": 43,
-   "model": "43E7HQ",
-   "offers": [
-    {
-     "store": "globe",
-     "name": "Televizor QLED Hisense 43\" 4K 43E7HQ",
-     "url": "https://globe.al/products?categoryId=3048",
-     "price": 49900,
-     "oldPrice": null,
-     "inStock": false,
-     "image": "https://media.globe.com.al/B2TVQ43HI4K43E7HQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
-    }
-   ],
-   "title": "Televizor QLED Hisense 43\" 4K 43E7HQ",
-   "image": "https://media.globe.com.al/B2TVQ43HI4K43E7HQ.png",
    "storeCount": 1,
    "bestPrice": 49900,
    "bestStore": "globe",
@@ -4191,7 +4191,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQ55PH4K55PUS840012/B2TVQ55PH4K55PUS840012_69fc6f03bfe82.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 55\" 4K 55PUS8400/12",
@@ -4218,7 +4218,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL55PH4K55PUS700012.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 55\" 4K 55PUS7000/12",
@@ -4245,7 +4245,7 @@
      "oldPrice": 99990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV19742-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 50PUS8818/12",
@@ -4272,7 +4272,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ba5292fe-2dbc-41c4-9197-64e3b516790a/ba5292fe-2dbc-41c4-9197-64e3b516790a_6a1576cf65cd8.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 43\" 4K 43E7S",
@@ -4299,7 +4299,7 @@
      "oldPrice": 79909,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED LG 65UT80003LA",
@@ -4326,7 +4326,7 @@
      "oldPrice": 69900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 65\" 4K 65PUS7001/12",
@@ -4351,9 +4351,9 @@
      "url": "https://globe.al/products?categoryId=3048",
      "price": 50900,
      "oldPrice": null,
-     "inStock": true,
+     "inStock": false,
      "image": "https://media.globe.com.al/B2TVL50HI4K50A6Q.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 50\" 4K 50A6Q",
@@ -4380,7 +4380,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/a80870a1-3892-4757-abcc-76b448304996/a80870a1-3892-4757-abcc-76b448304996_6a156d67a27e2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 50\" 4K 50A6S",
@@ -4407,7 +4407,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55LG4K55UA751C0LA/B2TVL55LG4K55UA751C0LA_69fc611cf07f8.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED LG 55\" 4K 55UA751C0LA",
@@ -4434,7 +4434,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/046cfd90-87ee-406a-93ce-45bb41545f0e/046cfd90-87ee-406a-93ce-45bb41545f0e_6a184e4ac7f0a.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 50\" 4K UE50U8072HUXXH",
@@ -4461,7 +4461,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQ50TCL4K50C645.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 50\" 4K 50C645",
@@ -4488,7 +4488,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/89377d06-e326-4080-8534-6a81ef7137c9/89377d06-e326-4080-8534-6a81ef7137c9_6a8c39d2d780f.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 43\" 4K UE43M70HAUXXH",
@@ -4515,7 +4515,7 @@
      "oldPrice": 79999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED LG 65UR80003LJ 4K UHD SMART",
@@ -4542,7 +4542,7 @@
      "oldPrice": 79900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 55\" 4K 55PQS8611/12",
@@ -4569,7 +4569,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65FOX4K65WOS640E/B2TVL65FOX4K65WOS640E_69fc5c764010d.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 65\" 4K 65WOS640E",
@@ -4596,7 +4596,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55HI4K55A6Q.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 55\" 4K 55A6Q",
@@ -4623,7 +4623,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/3da3a687-9774-46e6-8ae4-8525c54fae95/3da3a687-9774-46e6-8ae4-8525c54fae95_6a58dd7e74f2e.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor NANO LED LG 55\" 4K 55NANO81A6A",
@@ -4650,7 +4650,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55TCL4K55QLED780K/B2TVQ55TCL4K55QLED780K_69fc70309d5ca.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 55\" 4K 55QLED780K",
@@ -4677,7 +4677,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f310e0ba-0efe-4ac6-9ff0-1af9a5a2dcb1/f310e0ba-0efe-4ac6-9ff0-1af9a5a2dcb1_6a156f6b4fc00.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 55\" 4K 55A6S",
@@ -4704,7 +4704,7 @@
      "oldPrice": 84909,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LG 65UR91003LA",
@@ -4731,7 +4731,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/93055f3c-faf2-4bb6-b718-151957c8e55e/93055f3c-faf2-4bb6-b718-151957c8e55e_6a1570a4667ad.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 50\" 4K 50E7S",
@@ -4758,7 +4758,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL43PH4K43PUS652312.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 43\" 4K 43PUS6523/12",
@@ -4785,7 +4785,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ50HI4K50E7Q.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 50\" 4K 50E7Q",
@@ -4812,7 +4812,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55TCL4K55QLED810K/B2TVQ55TCL4K55QLED810K_69fc706d89cab.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 55\" 4K 55QLED810K",
@@ -4839,7 +4839,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://assets.shpresa.al/shop/2026/05/6284870c-qe65q7f2auxxh-3.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 65\" QLED Q7F 4K Samsung Vision AI Smart TV (2025)",
@@ -4866,7 +4866,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/04/c3de281f-tv147-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Xiaomi TV S Mini LED 55 2025",
@@ -4893,7 +4893,7 @@
      "oldPrice": 99990,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 55PUS8818/12",
@@ -4920,7 +4920,7 @@
      "oldPrice": 89900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 65\" 4K 65PQS8611/12",
@@ -4947,7 +4947,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL58HI4K58A6Q.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 58\" 4K 58A6Q",
@@ -4974,7 +4974,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55HI4K55E7NQPRO.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 55\" 4K 55E7NQ PRO",
@@ -5001,7 +5001,7 @@
      "oldPrice": 104900,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/catalog/blank.gif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED PHILIPS 75PUS7609/12",
@@ -5028,7 +5028,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55HI4K55E7QPRO.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 55\" 4K 55E7Q PRO",
@@ -5055,7 +5055,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65HI4K65A6Q/B2TVL65HI4K65A6Q_6a06c7a323934.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 65\" 4K 65A6Q",
@@ -5082,7 +5082,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ58HI4K58E7Q/B2TVQ58HI4K58E7Q_69fc6bd410c8f.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 58\" 4K 58E7Q",
@@ -5109,7 +5109,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL55PH4K55PUS740912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 55\" 4K 55PUS7409/12",
@@ -5136,7 +5136,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQM55TCL4K55C61KS/B2TVQM55TCL4K55C61KS_69fc63888b93e.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 55\" 4K 55C61KS",
@@ -5163,7 +5163,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/213cec13-0400-4790-9976-656b69d2b926/213cec13-0400-4790-9976-656b69d2b926_6a15787906c47.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 58\" 4K 58A6S",
@@ -5190,7 +5190,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/a636ed92-98b4-4afc-bfd9-555caf116c4e/a636ed92-98b4-4afc-bfd9-555caf116c4e_6a61f0d36c6b2.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 55\" 4K UE55M70HAUXXH",
@@ -5217,7 +5217,7 @@
      "oldPrice": 109999,
      "inStock": true,
      "image": "https://www.azaelectronics.com/image/cache//catalog/import/TV21805-250x300.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "TV LED LG 75UA74006LB",
@@ -5244,7 +5244,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/bc86c4f1-0a75-4965-a4aa-182326db6c56/bc86c4f1-0a75-4965-a4aa-182326db6c56_6a06c3be1b17c.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 55\" 4K 55E7S PRO",
@@ -5271,7 +5271,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65HI4K65A6N.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 65\" 4K 65A6N",
@@ -5298,7 +5298,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55TCL4K55P8K.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 55\" 4K 55P8K",
@@ -5325,7 +5325,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQL55PH4K55PUS820912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 55\" 4K 55PUS8209/12",
@@ -5352,7 +5352,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65PH4K65PUS781012/B2TVQ65PH4K65PUS781012_69ba6dde265d4.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 65\" 4K 65PUS7810/12",
@@ -5379,7 +5379,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL65FOX4K65DLE858.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED FOX 65\" 4K 65DLE858",
@@ -5406,7 +5406,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/485ba4f9-cb3e-4652-b082-b4a5cf59c23a/485ba4f9-cb3e-4652-b082-b4a5cf59c23a_6acf2be83fc96.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 43\" 4K QE43QN70HAUXXH",
@@ -5433,7 +5433,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/04/c3de281f-tv147-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Xiaomi TV S Mini LED 65 2025",
@@ -5460,7 +5460,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL50SA4KUE50AU7172UXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 50\" 4K UE50AU7172UXXH",
@@ -5487,7 +5487,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65PH4K65PUS760912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 65\" 4K 65PUS7609/12",
@@ -5514,7 +5514,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0b721365-2708-48c1-8cd3-150a8b28be8c/0b721365-2708-48c1-8cd3-150a8b28be8c_6ae481ec2b215.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 55\" 4K 55C69K PRO",
@@ -5541,7 +5541,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U6KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U6KQ",
@@ -5568,7 +5568,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65SA4KUE65U7022FKXXH/B2TVL65SA4KUE65U7022FKXXH_69fc5b2fa4bb0.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 65\" 4K UE65U7022FKXXH",
@@ -5595,7 +5595,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/38bb7553-693d-456e-a617-888c89394778/38bb7553-693d-456e-a617-888c89394778_69f9b95c9bcd4.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 65\" 4K 65A6S",
@@ -5622,7 +5622,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/fab569b3-8412-4e51-b003-d2c29b804443/fab569b3-8412-4e51-b003-d2c29b804443_6a43985df1377.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 55\" 4K UE55M80HAUXXH",
@@ -5649,7 +5649,7 @@
      "oldPrice": 139900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1795252900346-black-friday-sticker.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 85\" 4K 85E7S",
@@ -5676,7 +5676,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8bfa5cb8-2a28-4e69-a4fb-e5c36532acee/8bfa5cb8-2a28-4e69-a4fb-e5c36532acee_6ace0acb1b71e.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 65\" 4K 65T69C",
@@ -5703,7 +5703,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/7b42b197-111c-4135-ba2d-678e5b41fce1/7b42b197-111c-4135-ba2d-678e5b41fce1_6abce0dfe2cd0.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 50\" 4K 50U7SE",
@@ -5730,7 +5730,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c7876411-0608-4271-9640-1aee77d85c95/c7876411-0608-4271-9640-1aee77d85c95_6a5896e2c1ecb.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED TCL 65\" 4K 65V6C",
@@ -5757,7 +5757,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/fabdbad1-3f1c-4b4b-b548-94329d205822/fabdbad1-3f1c-4b4b-b548-94329d205822_69f9b9c62f415.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65E7S",
@@ -5784,7 +5784,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65HI4K65E7Q/B2TVQ65HI4K65E7Q_69fc6c4fa9843.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65E7Q",
@@ -5811,7 +5811,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65TCL4K65V6B.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED TCL 65\" 4K 65V6B",
@@ -5838,7 +5838,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/106bb747-6d98-4df8-9071-a694ac0df9ae/106bb747-6d98-4df8-9071-a694ac0df9ae_6a955189e897d.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 65\" 4K 65P7L",
@@ -5865,7 +5865,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65SA4KUE65U8072FUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 65\" 4K UE65U8072HUXXH",
@@ -5892,7 +5892,7 @@
      "oldPrice": 159900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1795252900346-black-friday-sticker.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 55\" 4K 55OLED761/12",
@@ -5919,7 +5919,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQM65TCL4K65C61KS/B2TVQM65TCL4K65C61KS_69fc63c4a515a.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 65\" 4K 65C61KS",
@@ -5946,7 +5946,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55PH4K55MLED92012.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini-LED Philips 55\" 4K 55MLED920/12",
@@ -5973,7 +5973,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVLPH504K50PUS790612.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 50\" 4K 50PUS7906/12",
@@ -6000,7 +6000,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65HI4K65A7KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65A7KQ",
@@ -6027,7 +6027,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL65HI4K65A7100F.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 65\" 4K 65A7100F",
@@ -6054,7 +6054,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55TCL4K55C735.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 55\" 4K 55C735",
@@ -6081,7 +6081,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65HI4K65A7NQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65A7NQ",
@@ -6108,7 +6108,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65HI4K65E7NQPRO.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65E7NQ PRO",
@@ -6135,7 +6135,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65PH4K65PUS807912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 65\" 4K 65PUS8079/12",
@@ -6162,7 +6162,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL65HI65A6BG.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 65\" 4K 65A6BG",
@@ -6189,7 +6189,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/527bb8eb-1d8c-45c1-a37e-6099c6c4de84/527bb8eb-1d8c-45c1-a37e-6099c6c4de84_6a58de7b7f3d2.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 50\" 4K QE50QN70HAUXXH",
@@ -6216,7 +6216,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c882b0e2-4ef4-4a2b-bafb-52889cfc14af/c882b0e2-4ef4-4a2b-bafb-52889cfc14af_6a353ff004ca1.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 65\" 4K UE65M70HAUXXH",
@@ -6243,7 +6243,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65HI4K65A7Q.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 65\" 4K 65A7Q",
@@ -6270,7 +6270,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8f3ff0d3-ec76-454f-a477-e13c7d3332ab/8f3ff0d3-ec76-454f-a477-e13c7d3332ab_6a589d59935c2.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 65\" 4K 65P8L",
@@ -6297,7 +6297,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U7KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U7KQ",
@@ -6324,7 +6324,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8b51f489-a846-4f21-a9ab-0ed57d6207db/8b51f489-a846-4f21-a9ab-0ed57d6207db_6a58df10570ec.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 55\" 4K QE55QN70HAUXXH",
@@ -6351,7 +6351,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/04/c3de281f-tv147-2.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Xiaomi TV S Mini LED 75 2025",
@@ -6378,7 +6378,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/e269890f-76a3-4ea6-8007-97599ff37001/e269890f-76a3-4ea6-8007-97599ff37001_69f9bba07fb6f.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U7SE",
@@ -6405,7 +6405,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ43SA4KQE43LS03FAUXXH/B2TVQ43SA4KQE43LS03FAUXXH_69fc6d80cb540.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 43\" 4K QE43LS03FAUXXH",
@@ -6432,7 +6432,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU65HI4K65U6KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U6KQ",
@@ -6459,7 +6459,7 @@
      "oldPrice": 199900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1795252900346-black-friday-sticker.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 65\" 4K 65OLED761/12",
@@ -6486,7 +6486,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/16e85694-acba-4c79-a61b-905cd8cdcb28/16e85694-acba-4c79-a61b-905cd8cdcb28_6acf2dd4f1736.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 75\" 4K UE75U8092HUXXH",
@@ -6513,7 +6513,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/3e95707e-a6c5-4aa5-9016-eb18d30103de/3e95707e-a6c5-4aa5-9016-eb18d30103de_6ace2b5d6bf15.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 65\" 4K 65C69K PRO",
@@ -6540,7 +6540,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8c400a87-dc05-4cdd-9f2a-fa03dc31736b/8c400a87-dc05-4cdd-9f2a-fa03dc31736b_6a0ebe49e7949.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 65\" 4K UE65M80HAUXXH",
@@ -6567,7 +6567,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO48PH4K48OLED77012/B2TVO48PH4K48OLED77012_69fc68df02386.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 48\" 4K 48OLED770/12",
@@ -6594,7 +6594,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U7NQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U7NQ",
@@ -6621,7 +6621,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQL65PH4K65PUS820912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 65\" 4K 65PUS8209/12",
@@ -6648,7 +6648,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/6df518ce-3542-4678-a030-dda177c708fe/6df518ce-3542-4678-a030-dda177c708fe_6a5a3bf04a776.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Stende per TV 55\"-90\" Brateck TTF19- 69FW",
@@ -6675,7 +6675,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ50SA4KQE50LS03FAUXXH/B2TVQ50SA4KQE50LS03FAUXXH_69fc6dce46500.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 50\" 4K QE50LS03FAUXXH",
@@ -6702,7 +6702,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/69c42c2b-60dd-4bc5-99cf-a621122d06e4/69c42c2b-60dd-4bc5-99cf-a621122d06e4_6a9551073cc6a.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 75\" 4K 75P7L",
@@ -6729,7 +6729,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/cefc827d-1882-47ac-861d-99412a7ce6f7/cefc827d-1882-47ac-861d-99412a7ce6f7_6a58a5adc5c6d.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 55\" 4K 55C79L",
@@ -6756,7 +6756,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/889a5357-d835-4bfe-b9bc-7de6141af601/889a5357-d835-4bfe-b9bc-7de6141af601_6a5897663c4eb.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED TCL 75\" 4K 75V6C",
@@ -6783,7 +6783,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8e37ee80-99f7-4f2b-a124-5091a5ce7da6/8e37ee80-99f7-4f2b-a124-5091a5ce7da6_6a439ba3f176d.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 65\" 4K 65PUS8510/12",
@@ -6810,7 +6810,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0ab24600-a98a-41ef-a3c5-c3d94a843ae0/0ab24600-a98a-41ef-a3c5-c3d94a843ae0_6a105720dcfe4.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Philips 75\" 4K 75PUS7810/12",
@@ -6837,7 +6837,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U7Q.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U7Q",
@@ -6864,7 +6864,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55PH4K55PUS891912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Philips 55\" 4K 55PUS8919/12",
@@ -6891,7 +6891,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65PH4K65MLED92012/B2TVL65PH4K65MLED92012_69fc6218df48b.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini-LED Philips 65\" 4K 65MLED920/12",
@@ -6918,7 +6918,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQ55SA4KQE55Q70CATXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 55\" 4K QE55Q70CATXXH",
@@ -6945,7 +6945,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://assets.shpresa.al/shop/2026/06/c53045f1-tv581-1.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Samsung 85\" Crystal UHD U8090F 4K Smart TV (2025)",
@@ -6972,7 +6972,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVL75HI4K75A6Q/B2TVL75HI4K75A6Q_69fc5aca86676.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 75\" 4K 75A6Q",
@@ -6999,7 +6999,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0fde9b18-54a8-4961-98dc-1165c62b4abb/0fde9b18-54a8-4961-98dc-1165c62b4abb_6a1937a54b774.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 50\" 4K QE50QN80HAUXXH",
@@ -7026,7 +7026,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQM75TCL4K75C6KS/B2TVQM75TCL4K75C6KS_69fc640cb9576.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 75\" 4K 75C6KS",
@@ -7053,7 +7053,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/84e0959b-ea22-4c6e-833b-2024248fd8c4/84e0959b-ea22-4c6e-833b-2024248fd8c4_6a58dfbdb13ac.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 65\" 4K QE65QN70HAUXXH",
@@ -7080,7 +7080,7 @@
      "oldPrice": 179900,
      "inStock": true,
      "image": "https://globe.al/uploads/stickers/sticker-1793868217046-sticker4.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 55\" 4K 55OLED811/12",
@@ -7107,7 +7107,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVNQ55SA4KQE55QN70FAUXXH.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 55\" 4K QE55QN70FAUXXH",
@@ -7134,7 +7134,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0211fcfd-cb42-4e12-908d-50c3939c8ed2/0211fcfd-cb42-4e12-908d-50c3939c8ed2_6a61f21ea2b81.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 75\" 4K UE75M70HAUXXH",
@@ -7161,7 +7161,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/a2a9be21-243f-4e06-b89e-4bc16a7b20e3/a2a9be21-243f-4e06-b89e-4bc16a7b20e3_6a589e5aad37e.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 75\" 4K 75P8L",
@@ -7188,7 +7188,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/e528b8ad-7e22-4e0e-af40-676a3578c91d/e528b8ad-7e22-4e0e-af40-676a3578c91d_6a19385a52bd7.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 55\" 4K QE55QN80HAUXXH",
@@ -7215,7 +7215,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U8HQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U8HQ",
@@ -7242,7 +7242,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU65HI4K65U7KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U7KQ",
@@ -7269,7 +7269,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU55HI4K55U8KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 55\" 4K 55U8KQ",
@@ -7296,7 +7296,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55SA4KQE55LS03BGUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 55\" 4K QE55LS03BGUXXH",
@@ -7323,7 +7323,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU65HI4K65U7NQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U7NQ",
@@ -7350,7 +7350,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVNQ55SA4KQE55QN80FAUXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 55\" 4K QE55QN80FAUXXH",
@@ -7377,7 +7377,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/1c750a90-817c-4a4b-afbd-9ac87b99696e/1c750a90-817c-4a4b-afbd-9ac87b99696e_6a195224ab29e.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 75\" 4K 75E7S",
@@ -7404,7 +7404,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/34aad255-17f1-4413-8dae-f5dea6d259c7/34aad255-17f1-4413-8dae-f5dea6d259c7_6a58a73b2b5da.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 65\" 4K 65C79L",
@@ -7431,7 +7431,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ4K75HI75E7QPRO.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 75\" 4K 75E7Q PRO",
@@ -7458,7 +7458,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVU75HI4K75U7QPRO/B2TVU75HI4K75U7QPRO_69fc80805c110.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 75\" 4K 75U7Q PRO",
@@ -7485,7 +7485,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL85HI4K85A6N.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 85\" 4K 85A6N",
@@ -7512,7 +7512,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ac3a3040-0579-4e44-a105-fbe7f1ef75af/ac3a3040-0579-4e44-a105-fbe7f1ef75af_6a61f33ad361c.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 75\" 4K UE75M80HAUXXH",
@@ -7539,7 +7539,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ55SA4KQE55LS03FAUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 55\" 4K QE55LS03FAUXXH",
@@ -7566,7 +7566,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU65HI4K65U7Q/B2TVU65HI4K65U7Q_69fc802223008.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U7Q",
@@ -7593,7 +7593,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQM85TCL4K85MQLED75K/B2TVQM85TCL4K85MQLED75K_69fc64a393ef8.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 85\" 4K 85MQLED75K",
@@ -7620,7 +7620,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f0b06d4d-d8c1-4a6d-a07d-90bf9893f892/f0b06d4d-d8c1-4a6d-a07d-90bf9893f892_6a15753be4335.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U7SE",
@@ -7647,7 +7647,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ75SA4KQE75Q6FAAUXXH/B2TVQ75SA4KQE75Q6FAAUXXH_69fc6fc924182.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 75\" 4K QE75Q6FAAUXXH",
@@ -7674,7 +7674,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/c803ea4e-57eb-4cd6-93d9-24df1d1437e0/c803ea4e-57eb-4cd6-93d9-24df1d1437e0_6a6205156b839.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 42\" 4K QE42S90HAEXXH",
@@ -7701,7 +7701,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ea617fcb-a8aa-4cbb-ac8f-d01c7be77999/ea617fcb-a8aa-4cbb-ac8f-d01c7be77999_6a1936a652825.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 85\" 4K UE85U8072HUXXH",
@@ -7728,7 +7728,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TV85HI4K85A6Q/B2TV85HI4K85A6Q_69fc5a87bad7e.jpeg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Hisense 85\" 4K 85A6Q",
@@ -7755,7 +7755,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/a37abf76-e76d-4ac5-b87d-495d2c3e59aa/a37abf76-e76d-4ac5-b87d-495d2c3e59aa_6a59f4058fadf.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 48\" 4K QE48S90HAEXXH",
@@ -7782,7 +7782,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVNQ65SA4KQE65QN80FAUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 65\" 4K QE65QN80FAUXXH",
@@ -7809,7 +7809,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU75HI4K75U7NQ.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini-LED Hisense 75\" 4K 75U7NQ",
@@ -7836,7 +7836,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ50SA4KQE50LS03BAUXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 50\" 4K QE50LS03BAUXXH",
@@ -7863,7 +7863,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/d447ef77-7d63-4fe9-abab-5ecb670eeb3a/d447ef77-7d63-4fe9-abab-5ecb670eeb3a_6a589c5a5d3be.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 85\" 4K 85P8K",
@@ -7890,7 +7890,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/d3b21224-9549-4b7f-baac-b9b98dd8099b/d3b21224-9549-4b7f-baac-b9b98dd8099b_6a105888110f8.",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 55\" 4K 55OLED820/12",
@@ -7917,7 +7917,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU65HI4K65U8NQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 65\" 4K 65U8NQ",
@@ -7944,7 +7944,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/624a7de1-6057-4013-939c-53716a14d6e3/624a7de1-6057-4013-939c-53716a14d6e3_6a19394838c0c.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 65\" 4K QE65QN80HAUXXH",
@@ -7971,7 +7971,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO55SA4KQE55S85FAUXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S85FAUXXH",
@@ -7998,7 +7998,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/54a8993a-c241-4b5b-9cce-c73cf3aaae03/54a8993a-c241-4b5b-9cce-c73cf3aaae03_6acf27547e02e.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 85\" 4K 85C69K PRO",
@@ -8025,7 +8025,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/4bb3a983-af0c-4b29-90f4-5b6af7608324/4bb3a983-af0c-4b29-90f4-5b6af7608324_6a95502742e71.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 75\" 4K 75U7SE",
@@ -8052,7 +8052,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TOVL55PH4K55OLED76912.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 55\" 4K 55OLED769/12",
@@ -8079,7 +8079,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ85HI4K85E7NQPRO.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 85\" 4K 85E7NQ PRO",
@@ -8106,7 +8106,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c37de119-38c2-4863-b1e6-86aaed5426ac/c37de119-38c2-4863-b1e6-86aaed5426ac_6a62074a46773.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S85HAEXXH",
@@ -8133,7 +8133,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/98dcf4c3-ddde-4bef-be64-afd111933507/98dcf4c3-ddde-4bef-be64-afd111933507_6a61f4284358f.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 85\" 4K UE85M70HAUXXH",
@@ -8160,7 +8160,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/cce66806-fc06-44bc-aa74-1edd9a7e45b3/cce66806-fc06-44bc-aa74-1edd9a7e45b3_6a58d41f1c1a3.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 55\" 4K MRE55R85HAUXXH",
@@ -8187,7 +8187,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO55SA4KQE55S90FAEXXH.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S90FAEXXH",
@@ -8214,7 +8214,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL85SA4KUE85DU7172UXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 85\" 4K UE85DU7172UXXH",
@@ -8241,7 +8241,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f6785533-4df6-4f48-a679-2327d88c235e/f6785533-4df6-4f48-a679-2327d88c235e_6a58adf699f43.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 65\" 4K 65C89L",
@@ -8268,7 +8268,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVNQ55SA4KQE55QN90FATXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 55\" 4K QE55QN90FATXXH",
@@ -8295,7 +8295,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL55PH4KOLED55OLED71812.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 55\" 4K 55OLED718/12",
@@ -8322,7 +8322,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL85SA4KUE85DU7192UXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 85\" 4K UE85DU7192UXXH",
@@ -8349,7 +8349,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/567d3361-0966-46fd-9f67-7db6f51df4e0/567d3361-0966-46fd-9f67-7db6f51df4e0_6a58e0a4755e5.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 75\" 4K QE75QN70HAUXXH",
@@ -8376,7 +8376,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ65SA4KQE65LS03FAUXXH/B2TVQ65SA4KQE65LS03FAUXXH_69fc6de603bb3.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 65\" 4K QE65LS03FAUXXH",
@@ -8403,7 +8403,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO65PH4K65OLED82012.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 65\" 4K 65OLED820/12",
@@ -8430,7 +8430,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/65038c7b-5b86-44f0-a772-d47eaf20f775/65038c7b-5b86-44f0-a772-d47eaf20f775_6ace36e5f0df8.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 98\" 4K 98P89L",
@@ -8457,7 +8457,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ85HI4K85E7QPRO/B2TVQ85HI4K85E7QPRO_69fc69dde3485.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 85\" 4K 85E7Q PRO",
@@ -8484,7 +8484,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c9dfd800-1db1-4f20-ae09-0dfa3237bd5a/c9dfd800-1db1-4f20-ae09-0dfa3237bd5a_6a61f4d88e78b.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 85\" 4K UE85M80HAUXXH",
@@ -8511,7 +8511,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0188e982-fe16-46d2-a411-2e66145c945e/0188e982-fe16-46d2-a411-2e66145c945e_6a43993851684.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S90HAEXXH",
@@ -8538,7 +8538,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO55SA4KQE65S85FAEXXH/B2TVO55SA4KQE65S85FAEXXH_69fc690337571.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S85FAEXXH",
@@ -8565,7 +8565,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/e0190ca7-70d9-4e88-8f2f-d0fc1a335876/e0190ca7-70d9-4e88-8f2f-d0fc1a335876_6a1e986456207.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 65\" 4K MRE65R85HAUXXH",
@@ -8592,7 +8592,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO55SA4KQE55S95FATXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S95FATXXH",
@@ -8619,7 +8619,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ85TCL4K85C735.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 85\" 4K 85C735",
@@ -8646,7 +8646,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL65PH4K65OLED81913.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Philips 65\" 4K 65OLED819/13",
@@ -8673,7 +8673,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/b430c3d6-d0c1-4433-b39d-21219a6ffbbd/b430c3d6-d0c1-4433-b39d-21219a6ffbbd_6a465e936dfc3.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor RGB Mini-LED Hisense 65\" 4K 65UR9S",
@@ -8700,7 +8700,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/bd1be667-ca6e-403d-97f4-f091516fd3aa/bd1be667-ca6e-403d-97f4-f091516fd3aa_6a620b8923aff.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S85HAEXXH",
@@ -8727,7 +8727,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ85SA4KQE85Q7FAAUXXH/B2TVQ85SA4KQE85Q7FAAUXXH_69fc6ec034f95.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 85\" 4K QE85Q7FAAUXXH",
@@ -8754,7 +8754,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ac901fdd-2272-43de-8747-ada1d56ee0ba/ac901fdd-2272-43de-8747-ada1d56ee0ba_6a58af518077f.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 75\" 4K 75C89L",
@@ -8781,7 +8781,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ98TCL4K98P8K.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 98\" 4K 98P8K",
@@ -8808,7 +8808,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f7dc34e0-d8cd-4e49-8493-45266552760b/f7dc34e0-d8cd-4e49-8493-45266552760b_6a59f53fe901b.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S90HAEXXH",
@@ -8835,7 +8835,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c84ceedf-2428-40f8-bce0-2c705eedad5c/c84ceedf-2428-40f8-bce0-2c705eedad5c_6a58e31f6d6f0.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 75\" 4K QE75QN80HAUXXH",
@@ -8862,7 +8862,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/8afcc918-df13-44db-92a4-f7fbe99d45af/8afcc918-df13-44db-92a4-f7fbe99d45af_6a5887d0dd874.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 65\" 4K QE65LS03HWUXXH",
@@ -8889,7 +8889,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ee6b4a5b-2848-484f-8a0a-215c0452d650/ee6b4a5b-2848-484f-8a0a-215c0452d650_6ace005c93c54.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QD-Mini LED TCL 98\" 4K 98C6K",
@@ -8916,7 +8916,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/7892198d-aeff-45b9-8de2-1990a7549652/7892198d-aeff-45b9-8de2-1990a7549652_6a58a93194ca7.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 85\" 4K 85C79L",
@@ -8943,7 +8943,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVNQ75SA4KQE75QN80FAUXXH/B2TVNQ75SA4KQE75QN80FAUXXH_69fc65eadad11.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 75\" 4K QE75QN80FAUXXH",
@@ -8970,7 +8970,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/1e3e7d86-e496-4f69-9842-58cd5afa506d/1e3e7d86-e496-4f69-9842-58cd5afa506d_6a1939ce3064d.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 85\" 4K QE85QN70HAUXXH",
@@ -8997,7 +8997,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVNQ65SA4KQE65QN90FATXXH/B2TVNQ65SA4KQE65QN90FATXXH_69fc692eb5680.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 65\" 4K QE65QN90FATXXH",
@@ -9024,7 +9024,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ75SA4KQE75Q80DATXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 75\" 4K QE75Q80DATXXH",
@@ -9051,7 +9051,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU75HI4K75U8KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 75\" 4K 75U8KQ",
@@ -9078,7 +9078,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU75HI4K75U8NQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 75\" 4K 75U8NQ",
@@ -9105,7 +9105,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/e87a39d0-a34c-4520-84bb-bf0dedfe5e9a/e87a39d0-a34c-4520-84bb-bf0dedfe5e9a_6a620a9b87bc1.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 55\" 4K QE55S95HFTXXH",
@@ -9132,7 +9132,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/1bdeef12-ae65-4d9f-985b-89cfbd096c56/1bdeef12-ae65-4d9f-985b-89cfbd096c56_6acf2b0a92ebc.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 98\" 4K UE98U9072HUXXH",
@@ -9159,7 +9159,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVU85HI4K85U8Q/B2TVU85HI4K85U8Q_69aece814a480.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 85\" 4K 85U8Q",
@@ -9186,7 +9186,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/262f9461-9585-435b-91ed-8728a0af20fa/262f9461-9585-435b-91ed-8728a0af20fa_6a465f61d3395.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor RGB Mini-LED Hisense 75\" 4K 75UR9S",
@@ -9213,7 +9213,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/6a4d35ce-074b-483b-9c33-579fef5050a6/6a4d35ce-074b-483b-9c33-579fef5050a6_6a4660e962932.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 100\" 4K 100E7S PRO",
@@ -9240,7 +9240,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ100HI4K100E7KQPRO.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Hisense 100\" 4K 100E7NQ PRO",
@@ -9267,7 +9267,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/d7daa0a6-beb1-4438-b720-e64268aab922/d7daa0a6-beb1-4438-b720-e64268aab922_6a58b04f92c65.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 85\" 4K 85C89L",
@@ -9294,7 +9294,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/10245527-4bce-4835-b251-88c5b04e3aee/10245527-4bce-4835-b251-88c5b04e3aee_6a58ace2b57da.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor SQD-Mini LED TCL 98\" 4K 98C79L",
@@ -9321,7 +9321,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/c2d56fa7-9345-4681-84a9-8845d30306d7/c2d56fa7-9345-4681-84a9-8845d30306d7_6a353d438eae5.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 100\" 4K 100U7Q PRO",
@@ -9348,7 +9348,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVO65SA4KQE65S95FATXXH.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S95FATXXH",
@@ -9375,7 +9375,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/9bb465f6-51c0-417e-8a6c-43822fbf092b/9bb465f6-51c0-417e-8a6c-43822fbf092b_6a1e9873a9220.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 75\" 4K MRE75R85HAUXXH",
@@ -9402,7 +9402,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/d8249d7d-b35a-4664-ac75-b04727a520e9/d8249d7d-b35a-4664-ac75-b04727a520e9_6a58f6ef9ddda.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 85\" 4K QE85QN80HAUXXH",
@@ -9429,7 +9429,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/0258c498-ea6f-4c67-9760-6e698bacee31/0258c498-ea6f-4c67-9760-6e698bacee31_6a59f8f6d9998.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S95HFTXXH",
@@ -9456,7 +9456,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/89fa8d7f-c87b-48bd-a12f-e4f044b23d88/89fa8d7f-c87b-48bd-a12f-e4f044b23d88_6a62114d060a8.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 77\" 4K QE77S85HAEXXH",
@@ -9483,7 +9483,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVL98SA4KUE98DU9072UXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor LED Samsung 98\" 4K UE98DU9072UXXH",
@@ -9510,7 +9510,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/ecfb7259-2d21-4ef8-9350-4994f7bbdbcf/ecfb7259-2d21-4ef8-9350-4994f7bbdbcf_6a1e98b6e157a.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 65\" 4K MRE65R95HATXXH",
@@ -9537,7 +9537,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 77\" 4K QE77S90HATXXH",
@@ -9564,7 +9564,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVM65TCL8K65X925.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED TCL 65\" 8K 65X925",
@@ -9591,7 +9591,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/88f15108-bf9d-4f53-a802-b1ca6f3c406c/88f15108-bf9d-4f53-a802-b1ca6f3c406c_6a8c350f40952.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Mini LED Samsung 100\" 4K UE100M90HUXXH",
@@ -9618,7 +9618,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/48ba6370-d44c-4842-99c0-609dabe50b10/48ba6370-d44c-4842-99c0-609dabe50b10_6a620f2a46cdd.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 65\" 4K QE65S99HATXXH",
@@ -9645,7 +9645,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVU100HI4K100U7KQ.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor ULED Hisense 100\" 4K 100U7KQ",
@@ -9672,7 +9672,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/6f6c9f3f-b2f4-4bdb-b27f-bed537aaa947/6f6c9f3f-b2f4-4bdb-b27f-bed537aaa947_6ab0fd9429f66.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 77\" 4K QE77S99HATXXH",
@@ -9699,7 +9699,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/261ad3c9-c671-4bf8-9bee-cf56cfe0e8e7/261ad3c9-c671-4bf8-9bee-cf56cfe0e8e7_6a1e98507a214.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 85\" 4K MRE85R85HAUXXH",
@@ -9726,7 +9726,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/e2f781ca-5fe6-4fd8-b327-571cbdc18d5f/e2f781ca-5fe6-4fd8-b327-571cbdc18d5f_6a6212a354d69.jfif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 83\" 4K QE83S85HAEXXH",
@@ -9753,7 +9753,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVO83SA4KQE83S85FAEXXH/B2TVO83SA4KQE83S85FAEXXH_69fc675103816.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 83\" 4K QE83S85FAEXXH",
@@ -9780,7 +9780,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/4669b544-4c26-4b00-ae6e-3b1c89bcde43/4669b544-4c26-4b00-ae6e-3b1c89bcde43_6a6202f7b84cb.avif",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 75\" 4K MRE75R95HATXXH",
@@ -9807,7 +9807,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVLHI4K100L5FB12F100W.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Laser Tv Hisense 4K 100L5F-B12 + F100W",
@@ -9834,7 +9834,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVQ98TCL4K98C735.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED TCL 98\" 4K 98C735",
@@ -9861,7 +9861,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVQ75SA8KQE75Q800TATXXH.png",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor QLED Samsung 75\" 8K QE75Q800TATXXH",
@@ -9888,7 +9888,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/f6c2678c-2282-4a01-94ed-f2a01a3f2224/f6c2678c-2282-4a01-94ed-f2a01a3f2224_6a621443859df.webp",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor OLED Samsung 83\" 4K QE83S99HAEXXH",
@@ -9914,12 +9914,12 @@
      "price": 699990,
      "oldPrice": null,
      "inStock": false,
-     "image": null,
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "image": "https://media.globe.com.al/f1fc10a0-f795-470a-bce2-60fdf160cedb/f1fc10a0-f795-470a-bce2-60fdf160cedb_6b06b2d126f2e.jpg",
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Micro RGB Samsung 85\" 4K MRE85R95HATXXH",
-   "image": null,
+   "image": "https://media.globe.com.al/f1fc10a0-f795-470a-bce2-60fdf160cedb/f1fc10a0-f795-470a-bce2-60fdf160cedb_6b06b2d126f2e.jpg",
    "storeCount": 1,
    "bestPrice": 699990,
    "bestStore": "globe",
@@ -9942,7 +9942,7 @@
      "oldPrice": null,
      "inStock": false,
      "image": "https://media.globe.com.al/B2TVNQ75SA8KQE75QN900BTXXH.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor Neo QLED Samsung 75\" 8K QE75QN900BTXXH",
@@ -9969,7 +9969,7 @@
      "oldPrice": null,
      "inStock": true,
      "image": "https://media.globe.com.al/B2TVRGBML116HI4K116UXQ/B2TVRGBML116HI4K116UXQ_69fc634a3a234.jpg",
-     "seenAt": "2026-11-25T08:51:28.462Z"
+     "seenAt": "2026-11-25T19:26:53.162Z"
     }
    ],
    "title": "Televizor RGB Mini-LED Hisense 116\" 4K 116UXQ",
